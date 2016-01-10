@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://PranavSanghavi.github.io
+title: Pranav Sanghavi
+tagline: A log of everyday life
+description: meh
+paginate: 5
