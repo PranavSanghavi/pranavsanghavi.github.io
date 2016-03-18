@@ -1,12 +1,12 @@
 # main text of home
 name: Pranav Sanghavi
-bio: 'A Man who travels the world eating noodles'
+bio: 'Science Student, Engineer, Artist/Cartoonist, Music enthusiast'
 
 # if it's an external image, update below for true
 external-image: false
 picture: 'assets/images/profile.jpg'
 
-url: http://sergiokopplin.github.io/indigo
+url: http://pranavsanghavi.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -23,11 +23,11 @@ disqus: mydisqus
 facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: myinstagram
 # pinterest: mypinterest
 linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
+# youtube: myyoutube
+# spotify: myspotify
 github: mygithub
 medium: medium
 email: myemail@gmail.com
