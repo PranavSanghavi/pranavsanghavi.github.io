@@ -1,1 +1,19 @@
+email: prnv.snghv@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Personal Webstite of Pranav Sanghavi.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://oranavsanghavi.com/" # the base hostname & protocol for your site, e.g. http://example.com
+
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+include: ['_pages']
+# Build settings
+markdown: kramdown
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - Gemfile
+  - Gemfile.lock
 theme: jekyll-theme-minimal
