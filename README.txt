@@ -1,30 +1,52 @@
-Identity by HTML5 UP
-html5up.net | @n33co
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Main CSS
+
+https://latex.vercel.app/
+https://github.com/vincentdoerig/latex-css/
+
+## License
+
+The Academicons font is licensed under the SIL OFL 1.1:
+http://scripts.sil.org/OFL
+Academicons CSS, LESS, and SASS files are licensed under the MIT License:
+http://opensource.org/licenses/mit-license.html
+The Academicons documentation is licensed under the CC BY 3.0 License:
+http://creativecommons.org/licenses/by/3.0/
+
+https://jpswalsh.github.io/academicons/
+https://github.com/jpswalsh/academicons
 
 
-Just a fun little profile/card-style template I whipped up during a break between major
-projects. Minimal, responsive, and powered by Skel + Sass. Enjoy :)
+Font Awesome Free License
+-------------------------
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Font Awesome Free is free, open source, and GPL friendly. You can use it for
+commercial projects, open source projects, or really almost whatever you want.
+Full Font Awesome Free license: https://fontawesome.com/license/free.
 
-(* = not included)
+# Icons: CC BY 4.0 License (https://creativecommons.org/licenses/by/4.0/)
+In the Font Awesome Free download, the CC BY 4.0 license applies to all icons
+packaged as SVG and JS file types.
 
-AJ
-n33.co @n33co dribbble.com/n33
+# Fonts: SIL OFL 1.1 License (https://scripts.sil.org/OFL)
+In the Font Awesome Free download, the SIL OFL license applies to all icons
+packaged as web and desktop font files.
 
+# Code: MIT License (https://opensource.org/licenses/MIT)
+In the Font Awesome Free download, the MIT license applies to all non-font and
+non-icon files.
 
-Credits:
+# Attribution
+Attribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font
+Awesome Free files already contain embedded comments with sufficient
+attribution, so you shouldn't need to do anything additional when using these
+files normally.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+We've kept attribution comments terse, so we ask that you do not actively work
+to remove them from files, especially code. They're a great way for folks to
+learn about Font Awesome.
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+# Brand Icons
+All brand icons are trademarks of their respective owners. The use of these
+trademarks does not indicate endorsement of the trademark holder by Font
+Awesome, nor vice versa. **Please do not use brand logos for any purpose except
+to represent the company, product, or service to which they refer.**
