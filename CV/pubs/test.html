@@ -5,34 +5,14 @@
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8" /> 
     <meta http-equiv="cache-control" content="no-cache" /> 
     <title> 
-      Your Publications
+        Publications
     </title>
     
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="bibtex_js.js" type="text/javascript" charset="utf-8"></script>
     <bibtex src="papers.bib"></bibtex>
     
-    <script>
-		$(function() {
-		  $("#Fontselector").on("change",function() {
-		    var font = $("#Fontselector option:selected").text();
-		    console.log(font);
-		
-		    $('.title.fonters').each(function() {
-		    	$(this).css("font-family",font);
-		    });
-		  }); 
-		});   
-		function reset() {
-			$("select").each(function () {
-			  localStorage.setItem($(this).attr("id"),"");
-			  $(this).val("");
-			}); 
-			$("#searchbar").val("");
-			$("#searchbar").trigger('change');
-		}
-    </script>
-    
+  <!--
     <style>
 	    html,body,span,h1 {
 	    	font-family: "Times New Roman", Times, serif;
@@ -44,42 +24,15 @@
 	    h1.header {margin-left:8px;}
 	    h1.YEAR { font-size: 17px; font-weight: bold; display: inline; margin-left:8px;}
     </style>
-    
+    -->
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
     
   </head>
 <body>
 <a name="top"></a>
-<h1 class="header">Your Publications</h1>
-<div class="container-fluid">
-	<div class="searchbar">
-		<div style="float:left;">
-			<button type="button" class="btn btn-default" onclick="reset()">Reset</button>
-		</div>
-		<div style="float:left;">
-			<select id="authorselectfirst" class="btn bibtex_search bibtex_author" style="border: 1px solid lightgrey;" extra="first" search="author">
-			  <option value="">Search First Author</option>
-			</select>
-		</div>
-		<div style="float:left;">
-			<select id="authorselect" class="btn bibtex_search bibtex_author" style="border: 1px solid lightgrey;" search="author">
-			  <option value="">Search Author</option>
-			</select>
-		</div>
-		<div style="float:left;">
-			<select id="topicselect" class="btn bibtex_search" style="border: 1px solid lightgrey;">
-			  <option value="">Search Topic</option>
-			  <!-- Add topic values here -->
-			  <option value="Example topic">Example Topic</option>
-			</select>
-		</div>
-		<div style="float:left;">
-			<input type="text" class="bibtex_search form-control" id="searchbar" placeholder="Search publications">
-			<span class="help-block">Example: journal 2015 (finds the intersection of the two terms)</span>
-		</div>
-	</div>
-</div>
+<h1 class="header">Publications</h1>
+
 
 <div class="bibtex_structure">
   <div class="group year" extra="ASC number">
