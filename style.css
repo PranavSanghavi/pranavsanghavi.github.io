@@ -169,20 +169,13 @@
   /* Make links red */
   a,
   a:visited {
-    color: rgb(30, 0, 139);
+    color: rgb(247, 112, 112);
   }
-  a.dark-mode:visited {
-    color: rgb(5, 255, 101);
+
   }
   a:focus {
     outline-offset: 2px;
-    outline: 2px solid rgb(55, 0, 255);
-  }
-  a.dark-mode:focus {
-    outline-offset: 2px;
-    outline: 2px solid rgb(174, 255, 205);
-  }
-  
+    outline: 2px solid rgb(247, 112, 112);
 
   /* Make images easier to work with */
   img {
