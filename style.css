@@ -171,13 +171,10 @@
   a:visited {
     color: rgb(121, 112, 247);
   }
-
-  }
   a:focus {
     outline-offset: 2px;
     outline: 2px solid rgb(135, 126, 255);
   }
-  
   /* Make images easier to work with */
   img {
     max-width: 100%;
