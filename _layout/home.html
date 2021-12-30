@@ -1,31 +1,24 @@
-<!DOCTYPE HTML>
-<html>
-{% include head.html %}
-<body>
+---
+layout: default
+---
+<header>
+    <h1>Pranav Sanghavi: <br />
+        A Personal Website</h1>
+    <p class="author">
+        Pranav Sanghavi <br />
+        {{ page.date }}
+    </p>
+</header>
 
-    <header>
-		<h1>Pranav Sanghavi: <br />
-			A Personal Website</h1>
-		<p class="author">
-			Pranav Sanghavi <br />
-			January 2021
-		</p>
-	</header>
+<div style="text-align: center;">
+    <button onclick="myFunction()">Toggle dark/light mode</button>
+</div>
 
-	<div style="text-align: center;">
-		<button onclick="myFunction()">Toggle dark/light mode</button>
-	</div>
+<div class="abstract">
+    <h2>Abstract</h2>
+    <p>
+        This website is a brief compilation of details about my person. I direct the reader to pertinent information
+        about the author. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
 
-	<div class="abstract">
-		<h2>Abstract</h2>
-		<p>
-			This website is a brief compilation of details about my person. I direct the reader to pertinent information
-			about the author. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
-
-		</p>
-	</div>
-    {{ content }}
-    <!-- Footer -->
-    {% include footer.html %}
-</body>
-</html>
+    </p>
+</div>
