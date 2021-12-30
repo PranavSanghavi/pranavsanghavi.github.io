@@ -147,6 +147,11 @@
     text-rendering: optimizeLegibility;
   }
   
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+
   /* Justify and hyphenate all paragraphs */
   p {
     text-align: justify;
