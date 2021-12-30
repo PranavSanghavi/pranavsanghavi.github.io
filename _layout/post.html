@@ -2,10 +2,17 @@
 layout: default
 ---
 <header>
-    <h1>Pranav Sanghavi: <br />
-        A Personal Website</h1>
+    <h1> {{ page.title }} </h1>
     <p class="author">
-        Pranav Sanghavi <br />
-        January 2021
+        {{ page.author }} <br />
+        {{ page.date}}
     </p>
 </header>
+
+
+<div class="abstract">
+    <h2>Abstract</h2>
+    <p>
+        {{ page.description }}
+    </p>
+</div>
