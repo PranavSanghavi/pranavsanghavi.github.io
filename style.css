@@ -171,16 +171,13 @@
   a:visited {
     color: rgb(30, 0, 139);
   }
-
   a.dark-mode:visited {
     color: rgb(5, 255, 101);
   }
-  
   a:focus {
     outline-offset: 2px;
     outline: 2px solid rgb(55, 0, 255);
   }
-  
   a.dark-mode:focus {
     outline-offset: 2px;
     outline: 2px solid rgb(174, 255, 205);
