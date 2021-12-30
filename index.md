@@ -1,6 +1,6 @@
 ---
 title: Pranav Sanghavi<br />A Personal Website
-layout: default
+layout: home
 author: Pranav Sanghavi
 date: January 2021
 abstract:
