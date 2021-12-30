@@ -132,7 +132,7 @@
     line-height: 1.8;
   
     max-width: 80ch;
-    min-height: 100vh;
+    /*min-height: 100vh;*/
     overflow-x: hidden;
     margin: 0 auto;
     padding: 2rem 1.25rem;
