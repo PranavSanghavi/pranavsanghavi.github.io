@@ -169,7 +169,7 @@
   /* Make links red */
   a,
   a:visited {
-    color: #a00;
+    color: rgb(37, 0, 170);
   }
   
   a:focus {
