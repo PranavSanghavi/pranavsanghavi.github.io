@@ -1,6 +1,7 @@
 ---
 layout: default
-title: List of Posts 
+title: Posts
+abstract: Listed below are some of my posted ramblings
 permalink: /posts/
 ---
 
