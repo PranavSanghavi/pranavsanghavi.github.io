@@ -52,5 +52,5 @@ Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virgin
 
 <div style="text-align: center;">
     <button><a href="https://pranavsanghavi.com/CV/">CV</a></button>
-    <button><a href="https://pranavsanghavi.com/CV/pubs">Publication List</a></button>
+    <button><a href="{{ site.url }}/pub_list">Publication List</a></button>
 </div>

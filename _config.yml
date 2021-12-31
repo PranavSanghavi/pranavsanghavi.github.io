@@ -1,5 +1,6 @@
 name: Pranav Sanghavi
 
+url: https://pranavsanghavi.com
 source: .
 destination: ./_site
 collections_dir: .
