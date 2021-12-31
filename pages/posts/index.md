@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Posts
+author: Pranav Sanghavi
 abstract: Listed below are some of my posted ramblings
 permalink: /posts/
 ---

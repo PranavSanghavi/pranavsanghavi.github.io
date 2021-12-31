@@ -2,6 +2,7 @@
 layout: default
 title: Acknowledgements
 abstract: Technologies this website depends upon
+author: Pranav Sanghavi
 permalink: /Acknowledgements/
 ---
 
