@@ -617,7 +617,6 @@ footer {
   width: 100%;
 }
 
-.content {
+.content-left-responsive {
   float: left;
-  max-width: 400px;
 }
