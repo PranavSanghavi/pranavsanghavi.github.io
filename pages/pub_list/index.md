@@ -12,8 +12,7 @@ permalink: /pub_list/
             {% for author in x.author %}
                 {{ author.first }} {{ author.last }}
             {% endfor %} <br /> 
-            in <i> {{ x.journal }} </i> <br />
-            {{ x.year }} <br />   
+        in <i> {{ x.journal }} </i> {{ x.year }} <br />   
     {% endfor %}
 {% endfor %}
 </ul>
