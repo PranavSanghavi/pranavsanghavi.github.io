@@ -1,0 +1,7 @@
+skills:
+  - title: Programming
+    details: C, C++, Fortran, Mathematica, Python,
+  - title: Frameworks
+    details: NumPy, SciPy, Astropy,
+  - title: Tools
+    details: Linux, emacs, vim, git, zsh
