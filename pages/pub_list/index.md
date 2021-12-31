@@ -10,7 +10,13 @@ permalink: /pub_list/
     {% for x in entry %}
         <b> {{ x.title }} </b><br />
             {% for author in x.author %}
-                {{ author.first }} {{ author.last }},
+                {% if author.first == "Pranav" and author.last = " Sanghavi" %}
+                    <b>{{ author.first }} {{ author.last }}</b>, 
+                {% elsif author.first == "Pranav" and author.last = " Sanghavi" %}
+                    <b>{{ author.first }} {{ author.last }}</b>,
+                {% else %}
+                    {{ author.first }} {{ author.last }},
+                {% endif %}
             {% endfor %} <i> {{ x.journal }} </i> {{ x.year }}.<br /> 
     {% endfor %}
 {% endfor %}
