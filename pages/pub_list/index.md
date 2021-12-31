@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Publication List
+author: Pranav Sanghavi
 abstract: Listed all contributed publications
 permalink: /pub_list/
 ---
