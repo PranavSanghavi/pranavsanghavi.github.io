@@ -6,9 +6,11 @@ permalink: /pub_list/
 ---
 
 <ul>
-{% for paper in site.data.papers.entries %}
+{% for entry in site.data.papers.entries %}
   <li>
-      {{ paper.title }}
+    {% for x in entry %}
+      {{ x.title }}
+    {% endfor %}
   </li>
 {% endfor %}
 </ul>
