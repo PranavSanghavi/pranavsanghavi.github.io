@@ -1,14 +1,14 @@
 - school: West Virginia University
-    location: Morgantown, WV, USA
-    degree: Ph.D. in Electrical Engineering
-    dates: 2016 -- Current
-    details:
-      - Advisors: Dr. Kevin Bandura
+  location: Morgantown, WV, USA
+  degree: Ph.D. in Electrical Engineering
+  dates: 2016 -- Current
+  details:
+    - Advisors: Dr. Kevin Bandura
 
 - school: VIT University
-    location: Vellore, Tamil Nadu, India
-    degree: B.Tech in Electronics and Instrumentation Engineering
-    dates: 2010 -- 2014
-    details:
-      - Thesis: “Investigation of Neural Networks for Flow Rate Approximation”
-      - Advisors: Dr. K.V. Laxmi Narayana
+  location: Vellore, Tamil Nadu, India
+  degree: B.Tech in Electronics and Instrumentation Engineering
+  dates: 2010 -- 2014
+  details:
+    - Thesis: “Investigation of Neural Networks for Flow Rate Approximation”
+    - Advisors: Dr. K.V. Laxmi Narayana
