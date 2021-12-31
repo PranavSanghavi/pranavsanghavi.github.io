@@ -1,24 +1,23 @@
-positions:
-  - place: West Virginia University
-    department: Lane Department of Computer Science and Electrical Engineering
-    location: Morgantown, WV, USA
-    title: Graduate Research Assistant
-    dates: 2016 -- Present
-    details:
-      - advisor: Dr. Kevin Bandura
+- place: West Virginia University
+  department: Lane Department of Computer Science and Electrical Engineering
+  location: Morgantown, WV, USA
+  title: Graduate Research Assistant
+  dates: 2016 -- Present
+  details:
+    - advisor: Dr. Kevin Bandura
 
-  - place: Raman Research Institute
-    department:
-    location: Morgantown, WV, USA
-    title: Visiting Student
-    dates: 2014 -- 2015
-    details:
-      - advisors: Dr. Avinash Deshpande
+- place: Raman Research Institute
+  department:
+  location: Morgantown, WV, USA
+  title: Visiting Student (Visiting Student Program)
+  dates: 2014 -- 2015
+  details:
+    - advisor: Dr. Avinash Deshpande
 
-  - place: MSC.Software
-    department: QA, MSC.Nastran
-    location: Pune, Maharashtra, India
-    title: Intern
-    dates: May -- July, 2012
-    details:
-      - duties: "Performed installation testing on different Linux   distributions[HPUX, AIX, Solaris et al.] as part of the QA (Quality   Assurance) procedure for MSC.Nastran and received elementary training in Finite ElementalAnalysis and CAE.<br>"
+- place: MSC.Software
+  department: QA, MSC.Nastran
+  location: Pune, Maharashtra, India
+  title: Intern
+  dates: May -- July, 2012
+  details:
+    - duties: "Performed installation testing on different Linux distributions[HPUX, AIX, Solaris et al.] as part of the QA (Quality Assurance) procedure for MSC.Nastran and received elementary training in Finite ElementalAnalysis and CAE.<br>"
