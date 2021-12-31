@@ -9,9 +9,9 @@ permalink: /pub_list/
 {% for entry in site.data.papers.entries %}
     {% for x in entry %}
         {% if x.url %}
-            <b><a href="{{ x.url }}">{{ x.title }}</a></b>
+            <b><a href="{{ x.url }}">{{ x.title }}</a></b><br /> 
         {% else %}
-            <b>{{ x.title }}</b>
+            <b>{{ x.title }}</b><br /> 
         {% endif %}
             {% for author in x.author %}
                 {% if author.first == "Pranav" and author.last == "Sanghavi" %}
