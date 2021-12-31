@@ -10,7 +10,7 @@ permalink: /pub_list/
     {% for x in entry %}
         <b> {{ x.title }} </b> <i> {{ x.journal }} </i> {{ x.year }}<br />
             {% for author in x.author %}
-                {{ author.first }} {{ author.last }}
+                {{ author.first }} {{ author.last }},
             {% endfor %} <br /> 
     {% endfor %}
 {% endfor %}
