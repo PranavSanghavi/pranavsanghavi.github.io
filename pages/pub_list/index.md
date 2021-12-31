@@ -8,10 +8,10 @@ permalink: /pub_list/
 <ul>
 {% for entry in site.data.papers.entries %}
     {% for x in entry %}
-        {{ x.title }}
+        <b> {{ x.title }} </b> <br />
             {% for author in x.author %}
                 {{ author.first }} {{ author.last }}
-            {% endfor %}   
+            {% endfor %} <br />   
     {% endfor %}
 {% endfor %}
 </ul>
