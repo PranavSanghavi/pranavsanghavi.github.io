@@ -4,8 +4,7 @@ layout: home
 author: Pranav Sanghavi
 date: January 2021
 abstract:
-  This website is a brief compilation of details about my person. I direct the reader to pertinent information
-  about the author. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
+  This website is a brief compilation of details about the author. I direct the reader to pertinent information. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
 ---
 
 <nav role="navigation" class="toc">
