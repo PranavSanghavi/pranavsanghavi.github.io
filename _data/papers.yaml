@@ -1,0 +1,1771 @@
+entries:
+    rafiei-ravandi2021chime:
+        type: article
+        title: 'CHIME/FRB Catalog 1 Results: Statistical Cross-correlations with Large-scale
+            Structure'
+        year: '2021'
+        journal: The Astrophysical Journal
+        doi: 10.3847/1538-4357/ac1dab
+        url: http://doi.org/10.3847/1538-4357/ac1dab
+        author:
+        -   first: Masoud
+            last: Rafiei-Ravandi
+        -   first: Kendrick
+            middle: M.
+            last: Smith
+        -   first: Dongzi
+            last: Li
+        -   first: Kiyoshi
+            middle: W.
+            last: Masui
+        -   first: Alexander
+            last: Josephy
+        -   first: Matt
+            last: Dobbs
+        -   first: Dustin
+            last: Lang
+        -   first: Mohit
+            last: Bhardwaj
+        -   first: Chitrang
+            last: Patel
+        -   first: Kevin
+            last: Bandura
+        -   first: Sabrina
+            last: Berger
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: Charanjot
+            last: Brar
+        -   first: Daniela
+            last: Breitman
+        -   first: Tomas
+            last: Cassanelli
+        -   first: Pragya
+            last: Chawla
+        -   first: Fengqiu
+            last: Adam Dong
+        -   first: Emmanuel
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: Utkarsh
+            last: Giri
+        -   first: Deborah
+            middle: C.
+            last: Good
+        -   first: Mark
+            last: Halpern
+        -   first: Jane
+            last: Kaczmarek
+        -   first: Victoria
+            middle: M.
+            last: Kaspi
+        -   first: Calvin
+            last: Leung
+        -   first: Hsiu-Hsien
+            last: Lin
+        -   first: Juan
+            last: Mena-Parra
+        -   first: B.
+            middle: W.
+            last: Meyers
+        -   first: D.
+            last: Michilli
+        -   first: Moritz
+            last: M{"u}nchmeyer
+        -   first: Cherry
+            last: Ng
+        -   first: Emily
+            last: Petroff
+        -   first: Ziggy
+            last: Pleunis
+        -   first: Mubdi
+            last: Rahman
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Paul
+            last: Scholz
+        -   first: Kaitlyn
+            last: Shin
+        -   first: Ingrid
+            middle: H.
+            last: Stairs
+        -   first: Shriharsh
+            middle: P.
+            last: Tendulkar
+        -   first: Keith
+            last: Vanderlinde
+        -   first: Andrew
+            last: Zwaniga
+    bhardwaj2021a:
+        type: article
+        title: A Local Universe Host for the Repeating Fast Radio Burst FRB 20181030A
+        year: '2021'
+        journal: The Astrophysical Journal
+        doi: 10.3847/2041-8213/ac223b
+        url: http://doi.org/10.3847/2041-8213/ac223b
+        author:
+        -   first: M.
+            last: Bhardwaj
+        -   first: A.
+            middle: Yu.
+            last: Kirichenko
+        -   first: D.
+            last: Michilli
+        -   first: Y.
+            middle: D.
+            last: Mayya
+        -   first: V.
+            middle: M.
+            last: Kaspi
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: M.
+            last: Rahman
+        -   first: S.
+            middle: P.
+            last: Tendulkar
+        -   first: E.
+            last: Fonseca
+        -   first: Alexander
+            last: Josephy
+        -   first: C.
+            last: Leung
+        -   first: Marcus
+            last: Merryfield
+        -   first: Emily
+            last: Petroff
+        -   first: Z.
+            last: Pleunis
+        -   first: Pranav
+            last: Sanghavi
+        -   first: P.
+            last: Scholz
+        -   first: K.
+            last: Shin
+        -   first: Kendrick
+            middle: M.
+            last: Smith
+        -   first: I.
+            middle: H.
+            last: Stairs
+    lanman2021a:
+        type: misc
+        title: A sudden period of high activity from repeating Fast Radio Burst 20201124A
+        year: '2021'
+        journal: arXiv e-prints
+        author:
+        -   first: Adam
+            middle: E.
+            last: Lanman
+        -   first: Bridget
+            middle: C.
+            last: Andersen
+        -   first: Pragya
+            last: Chawla
+        -   first: Alexander
+            last: Josephy
+        -   first: Victoria
+            middle: M.
+            last: Kaspi
+        -   first: Kevin
+            last: Bandura
+        -   first: Mohit
+            last: Bhardwaj
+        -   first: Patrick
+            middle: J.
+            last: Boyle
+        -   first: Charanjot
+            last: Brar
+        -   first: Daniela
+            last: Breitman
+        -   first: Tomas
+            last: Cassanelli
+        -   first: Fengqi
+            last: Dong
+        -   first: Emmanuel
+            last: Fonseca
+        -   first: Bryan
+            middle: M.
+            last: Gaensler
+        -   first: Deborah
+            last: Good
+        -   first: Jane
+            last: Kaczmarek
+        -   first: Calvin
+            last: Leung
+        -   first: Kiyoshi
+            middle: W.
+            last: Masui
+        -   first: Bradley
+            middle: W.
+            last: Meyers
+        -   first: Cherry
+            last: Ng
+        -   first: Chitrang
+            last: Patel
+        -   first: Aaron
+            middle: B.
+            last: Pearlman
+        -   first: Emily
+            last: Petroff
+        -   first: Ziggy
+            last: Pleunis
+        -   first: Masoud
+            last: Rafiei-Ravandi
+        -   first: Mubdi
+            last: Rahman
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Paul
+            last: Scholz
+        -   first: Kaitlyn
+            last: Shin
+        -   first: Ingrid
+            last: Stairs
+        -   first: Shriharsh
+            last: Tendulkar
+        -   first: Andrew
+            last: Zwaniga
+    crichton2021the:
+        type: misc
+        title: 'The Hydrogen Intensity and Real-time Analysis eXperiment: 256-Element
+            Array Status and Overview'
+        year: '2021'
+        eprint: '2109.13755'
+        archiveprefix: arXiv
+        primaryclass: astro-ph.IM
+        author:
+        -   first: Devin
+            last: Crichton
+        -   first: Moumita
+            last: Aich
+        -   first: Adam
+            last: Amara
+        -   first: Kevin
+            last: Bandura
+        -   first: Bruce
+            middle: A.
+            last: Bassett
+        -   first: Carlos
+            last: Bengaly
+        -   first: Pascale
+            last: Berner
+        -   first: Shruti
+            last: Bhatporia
+        -   first: Martin
+            last: Bucher
+        -   first: Tzu-Ching
+            last: Chang
+        -   first: H.
+            middle: Cynthia
+            last: Chiang
+        -   first: Jean-Francois
+            last: Cliche
+        -   first: Carolyn
+            last: Crichton
+        -   first: Romeel
+            last: Dave
+        -   first: Dirk
+            middle: I. L.
+            prelast: de
+            last: Villiers
+        -   first: Matt
+            middle: A.
+            last: Dobbs
+        -   first: Aaron
+            middle: M.
+            last: Ewall-Wice
+        -   first: Scott
+            last: Eyono
+        -   first: Christopher
+            last: Finlay
+        -   first: Sindhu
+            last: Gaddam
+        -   first: Ken
+            last: Ganga
+        -   first: Kevin
+            middle: G.
+            last: Gayley
+        -   first: Kit
+            last: Gerodias
+        -   first: Tim
+            last: Gibbon
+        -   first: Austin
+            last: Gumba
+        -   first: Neeraj
+            last: Gupta
+        -   first: Maile
+            last: Harris
+        -   first: Heiko
+            last: Heilgendorf
+        -   first: Matt
+            last: Hilton
+        -   first: Adam
+            middle: D.
+            last: Hincks
+        -   first: Pascal
+            last: Hitz
+        -   first: Mona
+            last: Jalilvand
+        -   first: Roufurd
+            last: Julie
+        -   first: Zahra
+            last: Kader
+        -   first: Joseph
+            last: Kania
+        -   first: Dionysios
+            last: Karagiannis
+        -   first: Aris
+            last: Karastergiou
+        -   first: Kabelo
+            last: Kesebonye
+        -   first: Piyanat
+            last: Kittiwisit
+        -   first: Jean-Paul
+            last: Kneib
+        -   first: Kenda
+            last: Knowles
+        -   first: Emily
+            middle: R.
+            last: Kuhn
+        -   first: Martin
+            last: Kunz
+        -   first: Roy
+            last: Maartens
+        -   first: Vincent
+            last: MacKay
+        -   first: Stuart
+            last: MacPherson
+        -   first: Christian
+            last: Monstein
+        -   first: Kavilan
+            last: Moodley
+        -   first: V.
+            last: Mugundhan
+        -   first: Warren
+            last: Naidoo
+        -   first: Arun
+            last: Naidu
+        -   first: Laura
+            middle: B.
+            last: Newburgh
+        -   first: Viraj
+            last: Nistane
+        -   first: Amanda
+            middle: Di
+            last: Nitto
+        -   first: Deniz
+            last: \"{O}l\c{c}ek
+        -   first: Xinyu
+            last: Pan
+        -   first: Sourabh
+            last: Paul
+        -   first: Jeffrey
+            middle: B.
+            last: Peterson
+        -   first: Elizabeth
+            last: Pieters
+        -   first: Carla
+            last: Pieterse
+        -   first: Aritha
+            last: Pillay
+        -   first: Anna
+            middle: R.
+            last: Polish
+        -   first: Liantsoa
+            last: Randrianjanahary
+        -   first: Alexandre
+            last: Refregier
+        -   first: Andre
+            last: Renard
+        -   first: Edwin
+            last: Retana-Montenegro
+        -   first: Ian
+            middle: H.
+            last: Rout
+        -   first: Cyndie
+            last: Russeeawon
+        -   first: Alireza
+            middle: Vafaei
+            last: Sadr
+        -   first: Benjamin
+            middle: R. B.
+            last: Saliwanchik
+        -   first: Ajith
+            last: Sampath
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Mario
+            middle: G.
+            last: Santos
+        -   first: Onkabetse
+            last: Sengate
+        -   first: J.
+            middle: Richard
+            last: Shaw
+        -   first: Jonathan
+            middle: L.
+            last: Sievers
+        -   first: Oleg
+            middle: M.
+            last: Smirnov
+        -   first: Kendrick
+            middle: M.
+            last: Smith
+        -   first: Ulrich
+            middle: Armel Mbou
+            last: Sob
+        -   first: Raghunathan
+            last: Srianand
+        -   first: Pieter
+            last: Stronkhorst
+        -   first: Dhaneshwar
+            middle: D.
+            last: Sunder
+        -   first: Simon
+            last: Tartakovsky
+        -   first: Russ
+            last: Taylor
+        -   first: Peter
+            last: Timbie
+        -   first: Emma
+            middle: E.
+            last: Tolley
+        -   first: Junaid
+            last: Townsend
+        -   first: Will
+            last: Tyndall
+        -   first: Cornelius
+            last: Ungerer
+        -   first: Jacques
+            prelast: van
+            last: Dyk
+        -   first: Gary
+            prelast: van
+            last: Vuuren
+        -   first: Keith
+            last: Vanderlinde
+        -   first: Thierry
+            last: Viant
+        -   first: Anthony
+            last: Walters
+        -   first: Jingying
+            last: Wang
+        -   first: Amanda
+            last: Weltman
+        -   first: Patrick
+            last: Woudt
+        -   first: Dallas
+            last: Wulf
+        -   first: Anatoly
+            last: Zavyalov
+        -   first: Zheng
+            last: Zhang
+    cassanelli2021localizing:
+        type: misc
+        title: Localizing FRBs through VLBI with the Algonquin Radio Observatory 10-m
+            Telescope
+        year: '2021'
+        journal: arXiv e-prints
+        author:
+        -   first: Tomas
+            last: Cassanelli
+        -   first: Calvin
+            last: Leung
+        -   first: Mubdi
+            last: Rahman
+        -   first: Keith
+            last: Vanderlinde
+        -   first: Juan
+            last: Mena-Parra
+        -   first: Savannah
+            last: Cary
+        -   first: Kiyoshi
+            middle: W.
+            last: Masui
+        -   first: Jing
+            last: Luo
+        -   first: Hsiu-Hsien
+            last: Lin
+        -   first: Akanksha
+            last: Bij
+        -   first: Ajay
+            last: Gill
+        -   first: Daniel
+            last: Baker
+        -   first: Kevin
+            last: Bandura
+        -   first: Sabrina
+            last: Berger
+        -   first: Patrick
+            middle: J.
+            last: Boyle
+        -   first: Charanjot
+            last: Brar
+        -   first: Shami
+            last: Chatterjee
+        -   first: Davor
+            last: Cubranic
+        -   first: Matt
+            last: Dobbs
+        -   first: Emmanuel
+            last: Fonseca
+        -   first: Deborah
+            middle: C.
+            last: Good
+        -   first: Jane
+            middle: F.
+            last: Kaczmarek
+        -   first: V.
+            middle: M.
+            last: Kaspi
+        -   first: Thomas
+            middle: L.
+            last: Landecker
+        -   first: Adam
+            middle: E.
+            last: Lanman
+        -   first: Dongzi
+            middle: Z.
+            last: Li
+        -   first: James
+            middle: W.
+            last: McKee
+        -   first: Bradley
+            middle: W.
+            last: Meyers
+        -   first: Daniele
+            last: Michilli
+        -   first: Arun
+            last: Naidu
+        -   first: Cherry
+            last: Ng
+        -   first: Chitrang
+            last: Patel
+        -   first: Aaron
+            middle: B.
+            last: Pearlman
+        -   first: Ue-Li
+            last: Pen
+        -   first: Ziggy
+            last: Pleunis
+        -   first: Brendan
+            last: Quine
+        -   first: Andre
+            last: Renard
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Kendrick
+            middle: M.
+            last: Smith
+        -   first: Ingrid
+            last: Stairs
+        -   first: Shriharsh
+            middle: P.
+            last: Tendulkar
+    chawla2021modeling:
+        type: misc
+        title: Modeling Fast Radio Burst Dispersion and Scattering Properties in the
+            First CHIME/FRB Catalog
+        year: '2021'
+        journal: arXiv e-prints
+        author:
+        -   first: P.
+            last: Chawla
+        -   first: V.
+            middle: M.
+            last: Kaspi
+        -   first: S.
+            middle: M.
+            last: Ransom
+        -   first: M.
+            last: Bhardwaj
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: D.
+            last: Breitman
+        -   first: T.
+            last: Cassanelli
+        -   first: D.
+            last: Cubranic
+        -   first: F.
+            middle: Q.
+            last: Dong
+        -   first: E.
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: U.
+            last: Giri
+        -   first: A.
+            last: Josephy
+        -   first: J.
+            middle: F.
+            last: Kaczmarek
+        -   first: C.
+            last: Leung
+        -   first: K.
+            middle: W.
+            last: Masui
+        -   first: J.
+            last: Mena-Parra
+        -   first: M.
+            last: Merryfield
+        -   first: D.
+            last: Michilli
+        -   first: M.
+            last: M{"u}nchmeyer
+        -   first: C.
+            last: Ng
+        -   first: C.
+            last: Patel
+        -   first: A.
+            middle: B.
+            last: Pearlman
+        -   first: E.
+            last: Petroff
+        -   first: Z.
+            last: Pleunis
+        -   first: M.
+            last: Rahman
+        -   first: P.
+            last: Sanghavi
+        -   first: K.
+            last: Shin
+        -   first: K.
+            middle: M.
+            last: Smith
+        -   first: I.
+            last: Stairs
+        -   first: S.
+            middle: P.
+            last: Tendulkar
+    collaboration2021sub:
+        type: misc
+        title: Sub-second periodicity in a fast radio burst
+        year: '2021'
+        journal: arXiv e-prints
+        author:
+        -   first: The
+            middle: CHIME/FRB
+            last: Collaboration
+        -   first: Bridget
+            middle: C.
+            last: Andersen
+        -   first: Kevin
+            last: Bandura
+        -   first: Mohit
+            last: Bhardwaj
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: Charanjot
+            last: Brar
+        -   first: Daniela
+            last: Breitman
+        -   first: Tomas
+            last: Cassanelli
+        -   first: Shami
+            last: Chatterjee
+        -   first: Pragya
+            last: Chawla
+        -   first: Jean-Fran\c{c}ois
+            last: Cliche
+        -   first: Davor
+            last: Cubranic
+        -   first: Alice
+            middle: P.
+            last: Curtin
+        -   first: Meiling
+            last: Deng
+        -   first: Matt
+            last: Dobbs
+        -   first: Fengqiu
+            middle: Adam
+            last: Dong
+        -   first: Emmanuel
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: Utkarsh
+            last: Giri
+        -   first: Deborah
+            middle: C.
+            last: Good
+        -   first: Alex
+            middle: S.
+            last: Hill
+        -   first: Alexander
+            last: Josephy
+        -   first: J.
+            middle: F.
+            last: Kaczmarek
+        -   first: Zarif
+            last: Kader
+        -   first: Joseph
+            last: Kania
+        -   first: Victoria
+            middle: M.
+            last: Kaspi
+        -   first: Calvin
+            last: Leung
+        -   first: D.
+            middle: Z.
+            last: Li
+        -   first: Hsiu-Hsien
+            last: Lin
+        -   first: Kiyoshi
+            middle: W.
+            last: Masui
+        -   first: Ryan
+            last: Mckinven
+        -   first: Juan
+            last: Mena-Parra
+        -   first: Marcus
+            last: Merryfield
+        -   first: B.
+            middle: W.
+            last: Meyers
+        -   first: D.
+            last: Michilli
+        -   first: Arun
+            last: Naidu
+        -   first: Laura
+            last: Newburgh
+        -   first: C.
+            last: Ng
+        -   first: Anna
+            last: Ordog
+        -   first: Chitrang
+            last: Patel
+        -   first: Aaron
+            middle: B.
+            last: Pearlman
+        -   first: Ue-Li
+            last: Pen
+        -   first: Emily
+            last: Petroff
+        -   first: Ziggy
+            last: Pleunis
+        -   first: Masoud
+            last: Rafiei-Ravandi
+        -   first: Mubdi
+            last: Rahman
+        -   first: Scott
+            last: Ransom
+        -   first: Andre
+            last: Renard
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Paul
+            last: Scholz
+        -   first: J.
+            middle: Richard
+            last: Shaw
+        -   first: Kaitlyn
+            last: Shin
+        -   first: Seth
+            middle: R.
+            last: Siegel
+        -   first: Saurabh
+            last: Singh
+        -   first: Kendrick
+            last: Smith
+        -   first: Ingrid
+            last: Stairs
+        -   first: Chia
+            middle: Min
+            last: Tan
+        -   first: Shriharsh
+            middle: P.
+            last: Tendulkar
+        -   first: Keith
+            last: Vanderlinde
+        -   first: D.
+            middle: V.
+            last: Wiebe
+        -   first: Dallas
+            last: Wulf
+        -   first: Andrew
+            last: Zwaniga
+    pleunis_2021:
+        type: article
+        doi: 10.3847/1538-4357/ac33ac
+        url: https://doi.org/10.3847/1538-4357/ac33ac
+        year: '2021'
+        month: dec
+        publisher: American Astronomical Society
+        volume: '923'
+        number: '1'
+        pages: '1'
+        title: Fast Radio Burst Morphology in the First {CHIME}/{FRB} Catalog
+        journal: The Astrophysical Journal
+        abstract: We present a synthesis of fast radio burst (FRB) morphology (the
+            change in flux as a function of time and frequency) as detected in the
+            400–800 MHz octave by the FRB project on the Canadian Hydrogen Intensity
+            Mapping Experiment (CHIME/FRB), using events from the first CHIME/FRB
+            catalog. The catalog consists of 62 bursts from 18 repeating sources,
+            plus 474 one-off FRBs, detected between 2018 July 25 and 2019 July 2.
+            We identify four observed archetypes of burst morphology (“simple broadband,”
+            “simple narrowband,” “temporally complex,” and “downward drifting”) and
+            describe relevant instrumental biases that are essential for interpreting
+            the observed morphologies. Using the catalog properties of the FRBs, we
+            confirm that bursts from repeating sources, on average, have larger widths,
+            and we show, for the first time, that bursts from repeating sources, on
+            average, are narrower in bandwidth. This difference could be due to beaming
+            or propagation effects, or it could be intrinsic to the populations. We
+            discuss potential implications of these morphological differences for
+            using FRBs as astrophysical tools.
+        author:
+        -   first: Ziggy
+            last: Pleunis
+        -   first: Deborah
+            middle: C.
+            last: Good
+        -   first: Victoria
+            middle: M.
+            last: Kaspi
+        -   first: Ryan
+            last: Mckinven
+        -   first: Scott
+            middle: M.
+            last: Ransom
+        -   first: Paul
+            last: Scholz
+        -   first: Kevin
+            last: Bandura
+        -   first: Mohit
+            last: Bhardwaj
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: Charanjot
+            last: Brar
+        -   first: Tomas
+            last: Cassanelli
+        -   first: Pragya
+            last: Chawla
+        -   first: Fengqiu
+            middle: (Adam)
+            last: Dong
+        -   first: Emmanuel
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: Alexander
+            last: Josephy
+        -   first: Jane
+            middle: F.
+            last: Kaczmarek
+        -   first: Calvin
+            last: Leung
+        -   first: Hsiu-Hsien
+            last: Lin
+        -   first: Kiyoshi
+            middle: W.
+            last: Masui
+        -   first: Juan
+            last: Mena-Parra
+        -   first: Daniele
+            last: Michilli
+        -   first: Cherry
+            last: Ng
+        -   first: Chitrang
+            last: Patel
+        -   first: Masoud
+            last: Rafiei-Ravandi
+        -   first: Mubdi
+            last: Rahman
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Kaitlyn
+            last: Shin
+        -   first: Kendrick
+            middle: M.
+            last: Smith
+        -   first: Ingrid
+            middle: H.
+            last: Stairs
+        -   first: Shriharsh
+            middle: P.
+            last: Tendulkar
+    josephy2021no:
+        type: misc
+        title: No Evidence for Galactic Latitude Dependence of the Fast Radio Burst
+            Sky Distribution
+        year: '2021'
+        journal: arXiv e-prints
+        author:
+        -   first: A.
+            last: Josephy
+        -   first: P.
+            last: Chawla
+        -   first: A.
+            middle: P.
+            last: Curtin
+        -   first: V.
+            middle: M.
+            last: Kaspi
+        -   first: M.
+            last: Bhardwaj
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: C.
+            last: Brar
+        -   first: T.
+            last: Cassanelli
+        -   first: E.
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: C.
+            last: Leung
+        -   first: H.
+            middle: -H.
+            last: Lin
+        -   first: K.
+            middle: W.
+            last: Masui
+        -   first: R.
+            last: McKinven
+        -   first: J.
+            last: Mena-Parra
+        -   first: D.
+            last: Michilli
+        -   first: C.
+            last: Ng
+        -   first: Z.
+            last: Pleunis
+        -   first: M.
+            last: Rafiei-Ravandi
+        -   first: M.
+            last: Rahman
+        -   first: P.
+            last: Sanghavi
+        -   first: P.
+            last: Scholz
+        -   first: K.
+            middle: M.
+            last: Smith
+        -   first: I.
+            middle: H.
+            last: Stairs
+        -   first: S.
+            middle: P.
+            last: Tendulkar
+        -   first: A.
+            middle: V.
+            last: Zwaniga
+    amiri_2021:
+        type: article
+        doi: 10.3847/1538-4365/ac33ab
+        url: https://doi.org/10.3847/1538-4365/ac33ab
+        year: '2021'
+        month: dec
+        publisher: American Astronomical Society
+        volume: '257'
+        number: '2'
+        pages: '59'
+        title: The First {CHIME}/{FRB} Fast Radio Burst Catalog
+        journal: The Astrophysical Journal Supplement Series
+        abstract: We present a catalog of 536 fast radio bursts (FRBs) detected by
+            the Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst (CHIME/FRB)
+            Project between 400 and 800 MHz from 2018 July 25 to 2019 July 1, including
+            62 bursts from 18 previously reported repeating sources. The catalog represents
+            the first large sample, including bursts from repeaters and nonrepeaters,
+            observed in a single survey with uniform selection effects. This facilitates
+            comparative and absolute studies of the FRB population. We show that repeaters
+            and apparent nonrepeaters have sky locations and dispersion measures (DMs)
+            that are consistent with being drawn from the same distribution. However,
+            bursts from repeating sources differ from apparent nonrepeaters in intrinsic
+            temporal width and spectral bandwidth. Through injection of simulated
+            events into our detection pipeline, we perform an absolute calibration
+            of selection effects to account for systematic biases. We find evidence
+            for a population of FRBs—composing a large fraction of the overall population—with
+            a scattering time at 600 MHz in excess of 10 ms, of which only a small
+            fraction are observed by CHIME/FRB. We infer a power-law index for the
+            cumulative fluence distribution of , consistent with the −3/2 expectation
+            for a nonevolving population in Euclidean space. We find that α is steeper
+            for high-DM events and shallower for low-DM events, which is what would
+            be expected when DM is correlated with distance. We infer a sky rate of
+            above a fluence of 5 Jy ms at 600 MHz, with a scattering time at 600 MHz
+            under 10 ms and DM above 100 pc cm−3.
+        author:
+        -   first: The
+            middle: CHIME/FRB
+            last: Collaboration
+        -   first: Mandana
+            last: Amiri
+        -   first: Bridget
+            middle: C.
+            last: Andersen
+        -   first: Kevin
+            last: Bandura
+        -   first: Sabrina
+            last: Berger
+        -   first: Mohit
+            last: Bhardwaj
+        -   first: Michelle
+            middle: M.
+            last: Boyce
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: Charanjot
+            last: Brar
+        -   first: Daniela
+            last: Breitman
+        -   first: Tomas
+            last: Cassanelli
+        -   first: Pragya
+            last: Chawla
+        -   first: Tianyue
+            last: Chen
+        -   first: J.-F.
+            last: Cliche
+        -   first: Amanda
+            last: Cook
+        -   first: Davor
+            last: Cubranic
+        -   first: Alice
+            middle: P.
+            last: Curtin
+        -   first: Meiling
+            last: Deng
+        -   first: Matt
+            last: Dobbs
+        -   first: Fengqiu
+            middle: (Adam)
+            last: Dong
+        -   first: Gwendolyn
+            last: Eadie
+        -   first: Mateus
+            last: Fandino
+        -   first: Emmanuel
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: Utkarsh
+            last: Giri
+        -   first: Deborah
+            middle: C.
+            last: Good
+        -   first: Mark
+            last: Halpern
+        -   first: Alex
+            middle: S.
+            last: Hill
+        -   first: Gary
+            last: Hinshaw
+        -   first: Alexander
+            last: Josephy
+        -   first: Jane
+            middle: F.
+            last: Kaczmarek
+        -   first: Zarif
+            last: Kader
+        -   first: Joseph
+            middle: W.
+            last: Kania
+        -   first: Victoria
+            middle: M.
+            last: Kaspi
+        -   first: T.
+            middle: L.
+            last: Landecker
+        -   first: Dustin
+            last: Lang
+        -   first: Calvin
+            last: Leung
+        -   first: Dongzi
+            last: Li
+        -   first: Hsiu-Hsien
+            last: Lin
+        -   first: Kiyoshi
+            middle: W.
+            last: Masui
+        -   first: Ryan
+            last: Mckinven
+        -   first: Juan
+            last: Mena-Parra
+        -   first: Marcus
+            last: Merryfield
+        -   first: Bradley
+            middle: W.
+            last: Meyers
+        -   first: Daniele
+            last: Michilli
+        -   first: Nikola
+            last: Milutinovic
+        -   first: Arash
+            last: Mirhosseini
+        -   first: Moritz
+            last: Münchmeyer
+        -   first: Arun
+            last: Naidu
+        -   first: Laura
+            last: Newburgh
+        -   first: Cherry
+            last: Ng
+        -   first: Chitrang
+            last: Patel
+        -   first: Ue-Li
+            last: Pen
+        -   first: Emily
+            last: Petroff
+        -   first: Tristan
+            last: Pinsonneault-Marotte
+        -   first: Ziggy
+            last: Pleunis
+        -   first: Masoud
+            last: Rafiei-Ravandi
+        -   first: Mubdi
+            last: Rahman
+        -   first: Scott
+            middle: M.
+            last: Ransom
+        -   first: Andre
+            last: Renard
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Paul
+            last: Scholz
+        -   first: J.
+            middle: Richard
+            last: Shaw
+        -   first: Kaitlyn
+            last: Shin
+        -   first: Seth
+            middle: R.
+            last: Siegel
+        -   first: Andrew
+            middle: E.
+            last: Sikora
+        -   first: Saurabh
+            last: Singh
+        -   first: Kendrick
+            middle: M.
+            last: Smith
+        -   first: Ingrid
+            last: Stairs
+        -   first: Chia
+            middle: Min
+            last: Tan
+        -   first: S.
+            middle: P.
+            last: Tendulkar
+        -   first: Keith
+            last: Vanderlinde
+        -   first: Haochen
+            last: Wang
+        -   first: Dallas
+            last: Wulf
+        -   first: A.
+            middle: V.
+            last: Zwaniga
+    leung2021a:
+        type: article
+        title: A Synoptic VLBI Technique for Localizing Nonrepeating Fast Radio Bursts
+            with CHIME/FRB
+        year: '2021'
+        journal: The Astronomical Journal
+        doi: 10.3847/1538-3881/abd174
+        url: http://doi.org/10.3847/1538-3881/abd174
+        author:
+        -   first: Calvin
+            last: Leung
+        -   first: Juan
+            last: Mena-Parra
+        -   first: Kiyoshi
+            last: Masui
+        -   first: Kevin
+            last: Bandura
+        -   first: Mohit
+            last: Bhardwaj
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: Charanjot
+            last: Brar
+        -   first: Mathieu
+            last: Bruneault
+        -   first: Tomas
+            last: Cassanelli
+        -   first: Davor
+            last: Cubranic
+        -   first: Jane
+            middle: F.
+            last: Kaczmarek
+        -   first: Victoria
+            last: Kaspi
+        -   first: Tom
+            last: Landecker
+        -   first: Daniele
+            last: Michilli
+        -   first: Nikola
+            last: Milutinovic
+        -   first: Chitrang
+            last: Patel
+        -   first: Ziggy
+            last: Pleunis
+        -   first: Mubdi
+            last: Rahman
+        -   first: Andre
+            last: Renard
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Ingrid
+            middle: H.
+            last: Stairs
+        -   first: Paul
+            last: Scholz
+        -   first: Keith
+            last: Vanderlinde
+        -   first: Chime/Frb
+            last: Collaboration
+    collaboration2020a:
+        type: article
+        title: A bright millisecond-duration radio burst from a Galactic magnetar
+        year: '2020'
+        journal: Nature
+        doi: 10.1038/s41586-020-2863-y
+        url: http://doi.org/10.1038/s41586-020-2863-y
+        author:
+        -   first: CHIME/FRB
+            last: Collaboration
+        -   first: B.
+            middle: C.
+            last: Andersen
+        -   first: K.
+            middle: M.
+            last: Bandura
+        -   first: M.
+            last: Bhardwaj
+        -   first: A.
+            last: Bij
+        -   first: M.
+            middle: M.
+            last: Boyce
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: C.
+            last: Brar
+        -   first: T.
+            last: Cassanelli
+        -   first: P.
+            last: Chawla
+        -   first: T.
+            last: Chen
+        -   first: J.
+            middle: -F.
+            last: Cliche
+        -   first: A.
+            last: Cook
+        -   first: D.
+            last: Cubranic
+        -   first: A.
+            middle: P.
+            last: Curtin
+        -   first: N.
+            middle: T.
+            last: Denman
+        -   first: M.
+            last: Dobbs
+        -   first: F.
+            middle: Q.
+            last: Dong
+        -   first: M.
+            last: Fandino
+        -   first: E.
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: U.
+            last: Giri
+        -   first: D.
+            middle: C.
+            last: Good
+        -   first: M.
+            last: Halpern
+        -   first: A.
+            middle: S.
+            last: Hill
+        -   first: G.
+            middle: F.
+            last: Hinshaw
+        -   first: C.
+            last: H{"o}fer
+        -   first: A.
+            last: Josephy
+        -   first: J.
+            middle: W.
+            last: Kania
+        -   first: V.
+            middle: M.
+            last: Kaspi
+        -   first: T.
+            middle: L.
+            last: Landecker
+        -   first: C.
+            last: Leung
+        -   first: D.
+            middle: Z.
+            last: Li
+        -   first: H.
+            middle: -H.
+            last: Lin
+        -   first: K.
+            middle: W.
+            last: Masui
+        -   first: R.
+            last: McKinven
+        -   first: J.
+            last: Mena-Parra
+        -   first: M.
+            last: Merryfield
+        -   first: B.
+            middle: W.
+            last: Meyers
+        -   first: D.
+            last: Michilli
+        -   first: N.
+            last: Milutinovic
+        -   first: A.
+            last: Mirhosseini
+        -   first: M.
+            last: M{"u}nchmeyer
+        -   first: A.
+            last: Naidu
+        -   first: L.
+            middle: B.
+            last: Newburgh
+        -   first: C.
+            last: Ng
+        -   first: C.
+            last: Patel
+        -   first: U.
+            middle: -L.
+            last: Pen
+        -   first: T.
+            last: Pinsonneault-Marotte
+        -   first: Z.
+            last: Pleunis
+        -   first: B.
+            middle: M.
+            last: Quine
+        -   first: M.
+            last: Rafiei-Ravandi
+        -   first: M.
+            last: Rahman
+        -   first: S.
+            middle: M.
+            last: Ransom
+        -   first: A.
+            last: Renard
+        -   first: P.
+            last: Sanghavi
+        -   first: P.
+            last: Scholz
+        -   first: J.
+            middle: R.
+            last: Shaw
+        -   first: K.
+            last: Shin
+        -   first: S.
+            middle: R.
+            last: Siegel
+        -   first: S.
+            last: Singh
+        -   first: R.
+            middle: J.
+            last: Smegal
+        -   first: K.
+            middle: M.
+            last: Smith
+        -   first: I.
+            middle: H.
+            last: Stairs
+        -   first: C.
+            middle: M.
+            last: Tan
+        -   first: S.
+            middle: P.
+            last: Tendulkar
+        -   first: I.
+            last: Tretyakov
+        -   first: K.
+            last: Vanderlinde
+        -   first: H.
+            last: Wang
+        -   first: D.
+            last: Wulf
+        -   first: A.
+            middle: V.
+            last: Zwaniga
+    chawla2020detection:
+        type: article
+        title: Detection of Repeating FRB 180916.J0158+65 Down to Frequencies of 300
+            MHz
+        year: '2020'
+        journal: The Astrophysical Journal
+        doi: 10.3847/2041-8213/ab96bf
+        url: http://doi.org/10.3847/2041-8213/ab96bf
+        author:
+        -   first: P.
+            last: Chawla
+        -   first: B.
+            middle: C.
+            last: Andersen
+        -   first: M.
+            last: Bhardwaj
+        -   first: E.
+            last: Fonseca
+        -   first: A.
+            last: Josephy
+        -   first: V.
+            middle: M.
+            last: Kaspi
+        -   first: D.
+            last: Michilli
+        -   first: Z.
+            last: Pleunis
+        -   first: K.
+            middle: M.
+            last: Bandura
+        -   first: C.
+            middle: G.
+            last: Bassa
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: C.
+            last: Brar
+        -   first: T.
+            last: Cassanelli
+        -   first: D.
+            last: Cubranic
+        -   first: M.
+            last: Dobbs
+        -   first: F.
+            middle: Q.
+            last: Dong
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: D.
+            middle: C.
+            last: Good
+        -   first: J.
+            middle: W. T.
+            last: Hessels
+        -   first: T.
+            middle: L.
+            last: Landecker
+        -   first: C.
+            last: Leung
+        -   first: D.
+            middle: Z.
+            last: Li
+        -   first: H.
+            middle: -. H.
+            last: Lin
+        -   first: K.
+            last: Masui
+        -   first: R.
+            last: Mckinven
+        -   first: J.
+            last: Mena-Parra
+        -   first: M.
+            last: Merryfield
+        -   first: B.
+            middle: W.
+            last: Meyers
+        -   first: A.
+            last: Naidu
+        -   first: C.
+            last: Ng
+        -   first: C.
+            last: Patel
+        -   first: M.
+            last: Rafiei-Ravandi
+        -   first: M.
+            last: Rahman
+        -   first: P.
+            last: Sanghavi
+        -   first: P.
+            last: Scholz
+        -   first: K.
+            last: Shin
+        -   first: K.
+            middle: M.
+            last: Smith
+        -   first: I.
+            middle: H.
+            last: Stairs
+        -   first: S.
+            middle: P.
+            last: Tendulkar
+        -   first: K.
+            last: Vanderlinde
+    collaboration2020periodic:
+        type: article
+        title: Periodic activity from a fast radio burst source
+        year: '2020'
+        journal: Nature
+        doi: 10.1038/s41586-020-2398-2
+        url: http://doi.org/10.1038/s41586-020-2398-2
+        author:
+        -   first: CHIME/FRB
+            last: Collaboration
+        -   first: M.
+            last: Amiri
+        -   first: B.
+            middle: C.
+            last: Andersen
+        -   first: K.
+            middle: M.
+            last: Bandura
+        -   first: M.
+            last: Bhardwaj
+        -   first: P.
+            middle: J.
+            last: Boyle
+        -   first: C.
+            last: Brar
+        -   first: P.
+            last: Chawla
+        -   first: T.
+            last: Chen
+        -   first: J.
+            middle: F.
+            last: Cliche
+        -   first: D.
+            last: Cubranic
+        -   first: M.
+            last: Deng
+        -   first: N.
+            middle: T.
+            last: Denman
+        -   first: M.
+            last: Dobbs
+        -   first: F.
+            middle: Q.
+            last: Dong
+        -   first: M.
+            last: Fandino
+        -   first: E.
+            last: Fonseca
+        -   first: B.
+            middle: M.
+            last: Gaensler
+        -   first: U.
+            last: Giri
+        -   first: D.
+            middle: C.
+            last: Good
+        -   first: M.
+            last: Halpern
+        -   first: J.
+            middle: W. T.
+            last: Hessels
+        -   first: A.
+            middle: S.
+            last: Hill
+        -   first: C.
+            last: H{"o}fer
+        -   first: A.
+            last: Josephy
+        -   first: J.
+            middle: W.
+            last: Kania
+        -   first: R.
+            last: Karuppusamy
+        -   first: V.
+            middle: M.
+            last: Kaspi
+        -   first: A.
+            last: Keimpema
+        -   first: F.
+            last: Kirsten
+        -   first: T.
+            middle: L.
+            last: Landecker
+        -   first: D.
+            middle: A.
+            last: Lang
+        -   first: C.
+            last: Leung
+        -   first: D.
+            middle: Z.
+            last: Li
+        -   first: H.
+            middle: -H.
+            last: Lin
+        -   first: B.
+            last: Marcote
+        -   first: K.
+            middle: W.
+            last: Masui
+        -   first: R.
+            last: McKinven
+        -   first: J.
+            last: Mena-Parra
+        -   first: M.
+            last: Merryfield
+        -   first: D.
+            last: Michilli
+        -   first: N.
+            last: Milutinovic
+        -   first: A.
+            last: Mirhosseini
+        -   first: A.
+            last: Naidu
+        -   first: L.
+            middle: B.
+            last: Newburgh
+        -   first: C.
+            last: Ng
+        -   first: K.
+            last: Nimmo
+        -   first: Z.
+            last: Paragi
+        -   first: C.
+            last: Patel
+        -   first: U.
+            middle: -L.
+            last: Pen
+        -   first: T.
+            last: Pinsonneault-Marotte
+        -   first: Z.
+            last: Pleunis
+        -   first: M.
+            last: Rafiei-Ravandi
+        -   first: M.
+            last: Rahman
+        -   first: S.
+            middle: M.
+            last: Ransom
+        -   first: A.
+            last: Renard
+        -   first: P.
+            last: Sanghavi
+        -   first: P.
+            last: Scholz
+        -   first: J.
+            middle: R.
+            last: Shaw
+        -   first: K.
+            last: Shin
+        -   first: S.
+            middle: R.
+            last: Siegel
+        -   first: S.
+            last: Singh
+        -   first: R.
+            middle: J.
+            last: Smegal
+        -   first: K.
+            middle: M.
+            last: Smith
+        -   first: I.
+            middle: H.
+            last: Stairs
+        -   first: S.
+            middle: P.
+            last: Tendulkar
+        -   first: I.
+            last: Tretyakov
+        -   first: K.
+            last: Vanderlinde
+        -   first: H.
+            last: Wang
+        -   first: X.
+            last: Wang
+        -   first: D.
+            last: Wulf
+        -   first: P.
+            last: Yadav
+        -   first: A.
+            middle: V.
+            last: Zwaniga
+    peterson2020optimization:
+        type: misc
+        title: Optimization of Radio Array Telescopes to Search for Fast RadioBursts
+        year: '2020'
+        journal: arXiv e-prints
+        author:
+        -   first: Jeffrey
+            middle: B
+            last: Peterson
+        -   first: Kevin
+            last: Bandura
+        -   first: Pranav
+            last: Sanghavi
+    sanghavi2019digital:
+        type: inproceedings
+        title: 'Digital Signal Processing in Radio Astronomy: An Interdisciplinary
+            Experience'
+        year: '2019'
+        booktitle: 2019 IEEE Integrated STEM Education Conference (ISEC)
+        pages: 362--366
+        doi: 10.1109/ISECon.2019.8882039
+        author:
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Kevin
+            last: Bandura
+        -   first: John
+            last: Makous
+        -   first: Howard
+            last: Chun
+    white2018open:
+        type: inproceedings
+        title: Open Source Radio Telescopes
+        year: '2018'
+        booktitle: Proceedings of the GNU Radio Conference
+        volume: '3'
+        number: '1'
+        author:
+        -   first: Ellie
+            last: White
+        -   first: Richard
+            last: Prestage
+        -   first: Evan
+            last: Smith
+        -   first: Pranav
+            last: Sanghavi
+    jadeja2016thermal:
+        type: article
+        title: Thermal comfort analysis of a proposed design for a sustainable living
+            space on Mars
+        year: '2016'
+        journal: Intelligent Buildings International
+        publisher: Taylor \& Francis
+        volume: '8'
+        number: '4'
+        pages: 215--233
+        doi: 10.1080/17508975.2015.1120185
+        url: https://doi.org/10.1080/17508975.2015.1120185
+        eprint: https://doi.org/10.1080/17508975.2015.1120185
+        author:
+        -   first: A.
+            last: Jadeja
+        -   first: M.M.
+            last: Jaiswal
+        -   first: S.
+            last: Ghosh
+        -   first: P.
+            last: Sanghavi
