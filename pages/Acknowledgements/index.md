@@ -8,7 +8,7 @@ permalink: /Acknowledgements/
 ## Icons and Fonts 
 
 - [Font Awesome](https://fontawesome.com/license/free)
-- [Acadmeicons](https://jpswalsh.github.io/academicons/)
+- [Academicons](https://jpswalsh.github.io/academicons/)
 
 ## CSS/Stylesheet
 
