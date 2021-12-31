@@ -8,7 +8,11 @@ permalink: /pub_list/
 <ul>
 {% for entry in site.data.papers.entries %}
     {% for x in entry %}
-        <b> {{ x.title }} </b><br />
+        {% if x.url %}
+            <b><a href="{{ x.url }}">{{ x.title }}</a></b>
+        {% else %}
+            <b>{{ x.title }}</b>
+        {% endif %}
             {% for author in x.author %}
                 {% if author.first == "Pranav" and author.last == "Sanghavi" %}
                     <b>{{ author.first }} {{ author.last }}</b>, 
@@ -17,7 +21,7 @@ permalink: /pub_list/
                 {% else %}
                     {{ author.first }} {{ author.last }},
                 {% endif %}
-            {% endfor %} <i> {{ x.journal }} </i> {{ x.year }}<br /> 
+            {% endfor %} <i> {{ x.journal }}{{ x.booktitle}} </i> {{ x.year }}<br /> 
     {% endfor %}
 {% endfor %}
 </ul>
