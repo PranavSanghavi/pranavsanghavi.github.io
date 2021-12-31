@@ -3,12 +3,12 @@
   degree: Ph.D. in Electrical Engineering
   dates: 2016 -- Current
   details:
-    - advisors: Dr. Kevin Bandura
+    - advisor: Dr. Kevin Bandura
 
 - school: VIT University
   location: Vellore, Tamil Nadu, India
   degree: B.Tech in Electronics and Instrumentation Engineering
   dates: 2010 -- 2014
   details:
-    - thesis: “Investigation of Neural Networks for Flow RateApproximation”
-    - advisors: Dr. K.V. Laxmi Narayana
+    - thesis: “Investigation of Neural Networks for Flow Rate Approximation”
+    - advisor: Dr. K.V. Laxmi Narayana
