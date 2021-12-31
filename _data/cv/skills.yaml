@@ -1,7 +1,14 @@
-skills:
-  - title: Programming
-    details: C, C++, Fortran, Mathematica, Python,
-  - title: Frameworks
-    details: NumPy, SciPy, Astropy,
-  - title: Tools
-    details: Linux, emacs, vim, git, zsh
+- title: Tools
+  description: Linux, emacs, vim, git, zsh
+
+- title: Scientific and Astronomy computing
+  description: "High competence using the <i>Python</i> language along with extensive usage of <i>numpy, astropy, scipy</i> and other packages. Experience with <i>CUDA, pycuda</i> and <i>numba</i> for high performance computing. Worked with a multitude of astronomical data formats and have familiarity with HPC systems"
+
+- title: Programming Languages
+  description: C, Python, linux shell scripting, FORTRAN, IDL, NCL, MATLAB, Assembly
+
+- title: Engineering Skills
+  description: Can execute basic  workshop routines and am well versed in engineering drawing. Possess acute familiarity with electronics lab testing and measurement equipment. Trained in soldering electronics including surface mount components and the use of reflow machines. Extensive experience with Digital Signal Processing including working with software defined radio using GNURadio as well as Field Programmable Gate Arrays.
+
+- title: Web Development Technologies
+  description: HTML, CSS, JavaScript \& related JavaScript frameworks such as VueJS, etc.
