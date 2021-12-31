@@ -1,0 +1,49 @@
+- title: Digital Signal Processing in Radio Astronomy -- Research Experience for Teacher
+  when: 2017 -- Current
+  brief: I run the NSF funded Research Experience for Teachers Site
+  where: WVU
+  details: "<br>
+    - I taught Digital Signal Processing to high school teachers every summer using practical labs based on GNURadio. Additionally, helped them gain an in depth understanding of radio telescope instrumentation and radio astronomy by helping them build 21cm horn antennas along with their GNURadio based backends
+    - Created and maintain the web infrastructure to host lectures, laboratory exercises and lessons. Assisted teachers create lessons and have built along with them a website with lessons. <i>see <a href="https://wvurail.org/dspira-lessons">https://wvurail.org/dspira-lessons</a></i>
+    - Assist teachers conduct workshops virtually or visit their schools. I also lead monthly meetings with teachers and enthusiasts from across the country.
+    - I maintain the GNURadio out-of-tree module software package tailored for radio astronomy. <i>see <a href="https://github.com/WVURAIL/gr-radio_astro">https://github.com/WVURAIL/gr-radio_astro</a></i><br>"
+  
+
+
+- title: "TONE: A CHIME/FRB Outrigger Prototype" 
+  when: 2016 -- Current
+  brief: Primary PhD thesis project advised by Dr. Kevin Bandura
+  where: WVU/GBO
+  details: "<br>
+    - I led the building of an array of 6m parabolic dishes at the Green Bank Observatory to serve as a VLBI station to achieve milli-arc-second localizations of one-off Fast Radio Bursts from a 3000+ km baseline.
+    - I assembled, tested and debugged the analog chain including antennas, low noise amplifiers, RFoF transceivers.
+    - Integrated and debugged the digital backend including the FPGA ICE boards and the  baseband recorder server on site. Also set up the VLBI triggering system.
+    - Worked on analysis of the baseband dump including, calibration, beamforming and cross correlation leading to the localization of the triggered pulses \& Fast Radio Bursts.
+    - Actively perform troubleshooting and Maintainence of the instrument."
+
+- title: Visiting Student Program at Raman Research Institute
+  when: 2014 -- 2015
+  brief: Advised by Prof. Avinash Deshpande
+  where: RRI
+  details: "<br>
+    - Worked on a gamut of small projects helping in the 'phase 0' of the Sky Watch Array Network (SWAN) with the primary goal of gaining a wide exposure to the field radio astronomy and instrumentation. Investigating the application of hough transforms to detect dispersed pulses.
+    "
+
+- title: A Nuanced Thermal Analysis of a Proposed Living Space on Mars 
+  when: 2014
+  brief: Advised by Prof. Satyajit Ghosh
+  where: VIT University 
+  details: "<br>
+    - Running a PlanetWRF (Planet Weather Research and Forecast Model) Simulation of the Martian atmosphere & visualise the netCDF output using IDL(GDL) & MATLAB. The results were interpreted to choose a site for the living space on the surface, the materials & optimise the structural design."
+
+- title: Investigation of Neural Networks for Flow Rate Approximation
+  when: 2014
+  brief: Advised by Prof. K. V. Lakshmi Narayana
+  where: VIT University
+  details: "<br>
+    - Bachelors Dissertation project in the domain of Artificial Neural Networks & Intelligent sensors culminating in an implementation on Field Programmable Gate Arrays (FPGAs)."
+
+- title: Development of Assistive Technologies for the Visually Impaired
+  when: 2013
+  brief: Advised by Dr. Theodore Moallem
+  where: VIT University
