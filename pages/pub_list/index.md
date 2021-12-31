@@ -7,7 +7,7 @@ permalink: /pub_list/
 ---
 
 <ul>
-{% for entry in site.data.papers.entries %}
+{% for entry in site.data.pubs.papers.entries %}
     {% for x in entry %}
         {% if x.url %}
             <b><a href="{{ x.url }}">{{ x.title }}</a></b><br /> 
