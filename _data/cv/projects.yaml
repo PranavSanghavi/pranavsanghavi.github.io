@@ -1,17 +1,16 @@
-- title: Digital Signal Processing in Radio Astronomy -- Research Experience for Teacher
-  when: 2017 -- Current
+- title: "Digital Signal Processing in Radio Astronomy -- Research Experience for Teacher"
+  when: "2017 -- Current"
   brief: I run the NSF funded Research Experience for Teachers Site
   where: WVU
   details: "<br>
     - I taught Digital Signal Processing to high school teachers every summer using practical labs based on GNURadio. Additionally, helped them gain an in depth understanding of radio telescope instrumentation and radio astronomy by helping them build 21cm horn antennas along with their GNURadio based backends
-    - Created and maintain the web infrastructure to host lectures, laboratory exercises and lessons. Assisted teachers create lessons and have built along with them a website with lessons. <i>see <a href="https://wvurail.org/dspira-lessons">https://wvurail.org/dspira-lessons</a></i>
+    - Created and maintain the web infrastructure to host lectures, laboratory exercises and lessons. Assisted teachers create lessons and have built along with them a website with lessons. <i>see <a href='https://wvurail.org/dspira-lessons'>https://wvurail.org/dspira-lessons</a></i>
     - Assist teachers conduct workshops virtually or visit their schools. I also lead monthly meetings with teachers and enthusiasts from across the country.
-    - I maintain the GNURadio out-of-tree module software package tailored for radio astronomy. <i>see <a href="https://github.com/WVURAIL/gr-radio_astro">https://github.com/WVURAIL/gr-radio_astro</a></i><br>"
-  
+    - I maintain the GNURadio out-of-tree module software package tailored for radio astronomy. <i>see <a href='https://github.com/WVURAIL/gr-radio_astro'>https://github.com/WVURAIL/gr-radio_astro</a></i><br>"
 
 
 - title: "TONE: A CHIME/FRB Outrigger Prototype" 
-  when: 2016 -- Current
+  when: "2016 -- Current"
   brief: Primary PhD thesis project advised by Dr. Kevin Bandura
   where: WVU/GBO
   details: "<br>
