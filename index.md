@@ -76,7 +76,7 @@ specials as a guest chef at a local restaurant for fun!
 <script type="text/javascript">
     // Get ToC div
     toc = document.getElementById("ToC");
-
+    toc.classList.remove("abstract");
     //Add a header
     tocHeader = document.createElement("h2");
     tocHeader.innerText="Table of contents";
@@ -102,7 +102,7 @@ specials as a guest chef at a local restaurant for fun!
       tocEntry = document.createElement("a");
       tocEntry.setAttribute("href","#"+name);
       tocEntry.innerText=headers[i].innerText;
-      
+
       tocListItem.appendChild(tocEntry);
       tocList.appendChild(tocListItem);
     }
