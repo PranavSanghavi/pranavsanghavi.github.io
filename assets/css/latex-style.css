@@ -688,9 +688,8 @@ a.button:hover {
     page-break-before: avoid !important;
   }
 
-  h1.pagetitle {
-    font-size: 30px !important;
-    page-break-before: avoid !important;
+  h1.cv-section {
+    text-align: left !important;
   }
 }
 
