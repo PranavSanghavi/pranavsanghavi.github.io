@@ -3,6 +3,7 @@ layout: default
 title: Publication List
 author: Pranav Sanghavi
 abstract: Listed below are all contributed publications
+date: 2020-12-31
 permalink: /pub_list/
 ---
 
