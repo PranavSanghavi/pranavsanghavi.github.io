@@ -8,8 +8,6 @@ published: true
 toc: true
 ---
 
-{:toc}
-
 # hi
 
 jhvukfkv
