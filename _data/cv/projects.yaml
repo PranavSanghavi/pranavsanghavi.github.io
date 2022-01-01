@@ -2,7 +2,7 @@
   when: "2017 - Current"
   brief: I run the NSF funded Research Experience for Teachers Site
   where: WVU
-  details: "<br><ul>
+  details: "<ul>
     <li> I taught Digital Signal Processing to high school teachers every summer using practical labs based on GNURadio. Additionally, helped them gain an in depth understanding of radio telescope instrumentation and radio astronomy by helping them build 21cm horn antennas along with their GNURadio based backends</li>
     <li>Created and maintain the web infrastructure to host lectures, laboratory exercises and lessons. Assisted teachers create lessons and have built along with them a website with lessons. <i>see <a href='https://wvurail.org/dspira-lessons'>https://wvurail.org/dspira-lessons</a></i></li>
     <li>Assist teachers conduct workshops virtually or visit their schools. I also lead monthly meetings with teachers and enthusiasts from across the country.</li>
@@ -12,7 +12,7 @@
   when: "2016 -- Current"
   brief: Primary PhD thesis project advised by Dr. Kevin Bandura
   where: "WVU/GBO"
-  details: "<br><ul>
+  details: "<ul>
     <li> I led the building of an array of 6m parabolic dishes at the Green Bank Observatory to serve as a VLBI station to achieve milli-arc-second localizations of one-off Fast Radio Bursts from a 3000+ km baseline. </li>
     <li>I assembled, tested and debugged the analog chain including antennas, low noise amplifiers, RFoF transceivers.</li>
     <li>Integrated and debugged the digital backend including the FPGA ICE boards and the  baseband recorder server on site. Also set up the VLBI triggering system.</li>
@@ -23,21 +23,21 @@
   when: "2014 - 2015"
   brief: Advised by Prof. Avinash Deshpande
   where: RRI
-  details: "<br><ul>
+  details: "<ul>
     <li>Worked on a gamut of small projects helping in the 'phase 0' of the Sky Watch Array Network (SWAN) with the primary goal of gaining a wide exposure to the field radio astronomy and instrumentation. Investigating the application of hough transforms to detect dispersed pulses.</li></ul>"
 
 - title: A Nuanced Thermal Analysis of a Proposed Living Space on Mars
   when: 2014
   brief: Advised by Prof. Satyajit Ghosh
   where: VIT University
-  details: "<br><ul>
+  details: "<ul>
     <li>Running a PlanetWRF (Planet Weather Research and Forecast Model) Simulation of the Martian atmosphere & visualise the netCDF output using IDL(GDL) & MATLAB. The results were interpreted to choose a site for the living space on the surface, the materials & optimise the structural design.</li></ul>"
 
 - title: Investigation of Neural Networks for Flow Rate Approximation
   when: 2014
   brief: Advised by Prof. K. V. Lakshmi Narayana
   where: VIT University
-  details: "<br><ul>
+  details: "<ul>
     <li>Bachelors Dissertation project in the domain of Artificial Neural Networks & Intelligent sensors culminating in an implementation on Field Programmable Gate Arrays (FPGAs).</li></ul>"
 
 - title: Development of Assistive Technologies for the Visually Impaired
