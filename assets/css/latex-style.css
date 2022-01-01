@@ -724,7 +724,8 @@ a.button:hover {
 }
 
 @media print {
-  figure {
-    overflow: auto;
+  img,
+  pre {
+    page-break-before: always !important;
   }
 }
