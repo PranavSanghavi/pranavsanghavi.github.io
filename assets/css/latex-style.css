@@ -680,13 +680,12 @@ a.button:hover {
 
 @media print {
   h1 {
-    font-size: 20px;
-    page-break-before: always;
+    font-size: 20px !important;
   }
 
   h1.pagetitle {
-    font-size: 30px;
-    page-break-before: avoid;
+    font-size: 30px !important;
+    page-break-before: avoid !important;
   }
 }
 
@@ -710,6 +709,6 @@ a.button:hover {
 
 @media print {
   div.container {
-    break-inside: avoid;
+    page-break-before: always !important;
   }
 }
