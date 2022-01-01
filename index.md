@@ -27,8 +27,14 @@ Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virgin
     </figcaption>
 </figure>
 
-<h1 id="research">Research Interstests</h1>
-
+<h1 id="research">Research Interests</h1>
+<ol>
+<li> Radio Astronomy </li>
+<li> Instrumentation </li>
+<li> Fast Radio Bursts </li>
+<li> Very Large Baseline Interferometry (VLBI) </li>
+<li> Cosmology </li>
+</ol>
 <figure>
     <img src="/images/tone.png" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
     <figcaption>
@@ -46,9 +52,15 @@ Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virgin
     </figcaption>
 </figure>
 
-<h1 id="misc">Miscellenious</h1>
+<h1 id="cv">Curriculum Vitae</h1>
+
+Click on the links below to see my CV and the list of contributed publications.
 
 <div style="text-align: center;">
     <a href="{{ site.url }}/cv/" class="button">CV</a>
     <a href="{{ site.url }}/pub_list" class="button">Publication List</a>
 </div>
+
+<h1 id="misc">Miscellenious</h1>
+
+When not building radio telescopes and crunching data, one can find me making <a href="https://m.soundcloud.com/pranav-sanghavi">music</a> and <a href="https://dimensionslost.com/">painting</a>. I enjoy long walks and consuming copious amounts of all art and books. I am an avid home cook who occasionally cooks specials as a guest chef at a local restaurant for fun!
