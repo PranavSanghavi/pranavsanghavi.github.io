@@ -670,5 +670,6 @@ a.button:hover {
   .no-print,
   .no-print * {
     display: none !important;
+    overflow: visible !important;
   }
 }
