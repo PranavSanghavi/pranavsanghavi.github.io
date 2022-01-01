@@ -10,6 +10,11 @@
   --text-color: #000;
 }
 
+[data-theme="dark"] {
+  --background-color: #3F3F3F;
+  --text-color: #fff;
+}
+
 @font-face {
   font-family: 'Latin Modern';
   font-style: normal;
@@ -128,10 +133,6 @@ html {
   scroll-behavior: smooth;
 }
 
-[data-theme="dark"] {
-  --background-color: #3F3F3F;
-  --text-color: #fff;
-}
 
 body.libertinus {
   font-family: 'Libertinus', Georgia, Cambria, 'Times New Roman', Times, serif;
@@ -658,4 +659,31 @@ a.button:hover {
     display: block;
     margin: 0.4em auto;
   }
+}
+
+
+.btn-toggle {
+  background-color: var(--background-color);
+  color: var(--text-color);
+  height: 48px;
+  width: 150px;
+  font-size: 16px;
+  border-radius: 6px;
+  letter-spacing: 3px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: color 0.3s, background-color 0.3s;
+  cursor: pointer;
+  border: 3px solid var(--background-color);
+}
+
+.button-toggle:hover {
+  background-color: var(--text-color);
+  color: var(--background-color);
+}
+
+.button-toggle:focus {
+  outline: none;
 }

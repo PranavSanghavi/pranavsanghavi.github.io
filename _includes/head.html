@@ -23,7 +23,7 @@
 
 			// Get our button switcher
 			var themeSwitcher = document.getElementById("dark-light");
-
+			var buttonDarkMode = document.getElementById("dark-light");
 			// When our button gets clicked
 			themeSwitcher.onclick = function () {
 				// Get the current selected theme, on the first run
@@ -33,8 +33,13 @@
 				// Switch between `dark` and `light`
 				var switchToTheme = currentTheme === "dark" ? "light" : "dark"
 
-				// Set our currenet theme to the new one
+				// Set our current theme to the new one
 				document.documentElement.setAttribute("data-theme", switchToTheme);
+				if (currentTheme === 'dark') {
+					buttonDarkMode.innerHTML = 'DARK MODE';
+				} else {
+					buttonDarkMode.innerHTML = 'LIGHT MODE';
+				}
 			}
 		});
 	</script>
