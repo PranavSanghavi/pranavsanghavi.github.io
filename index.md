@@ -29,7 +29,7 @@ localization.
     <li> Cosmology </li>
 </ol>
 <figure>
-    <img src="/images/tone.webp" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
+    <img src="/images/tone.webp" onerror="if (this.src != 'tone.webp') this.src = 'tone.jpg';" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
     <figcaption>
         <em>Figure 2:</em> TONE: A 6m parabolic dish array at the Green Bank Observatory.
         <a href=""></a>
