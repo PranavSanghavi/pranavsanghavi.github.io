@@ -15,6 +15,7 @@ collections:
     output: true
 
 plugins:
+  - jekyll-toc
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
