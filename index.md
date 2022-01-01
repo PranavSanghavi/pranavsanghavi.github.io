@@ -3,8 +3,7 @@ title: Pranav Sanghavi<br />A Personal Website
 layout: home
 author: Pranav Sanghavi
 date: January 2021
-abstract:
-  This website is a brief compilation of details about the author. I direct the reader to pertinent information. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
+abstract: This website is a brief compilation of details about the author. I direct the reader to pertinent information. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
 ---
 
 <nav role="navigation" class="toc">
@@ -50,6 +49,6 @@ Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virgin
 <h1 id="misc">Miscellenious</h1>
 
 <div style="text-align: center;">
-    <button><a href="https://pranavsanghavi.com/CV/">CV</a></button>
+    <button><a href="https://pranavsanghavi.com/cv/">CV</a></button>
     <button><a href="{{ site.url }}/pub_list">Publication List</a></button>
 </div>
