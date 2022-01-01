@@ -18,7 +18,6 @@
 
 	<script type="text/javascript">
 		// Wait for document to load
-		console.log(document.documentElement.getAttribute("data-theme"))
 		document.addEventListener("DOMContentLoaded", function (event) {
 			document.documentElement.setAttribute("data-theme", "light");
 
@@ -30,10 +29,11 @@
 				// Get the current selected theme, on the first run
 				// it should be `light`
 				var currentTheme = document.documentElement.getAttribute("data-theme");
-
+				console.log(currentTheme)
 				// Switch between `dark` and `light`
 				var switchToTheme = currentTheme === "dark" ? "light" : "dark"
-
+				var currentTheme = document.documentElement.getAttribute("data-theme");
+				console.log(currentTheme)
 				// Set our current theme to the new one
 				document.documentElement.setAttribute("data-theme", switchToTheme);
 				if (currentTheme === 'dark') {
