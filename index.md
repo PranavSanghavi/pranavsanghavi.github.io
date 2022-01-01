@@ -86,7 +86,7 @@ specials as a guest chef at a local restaurant for fun!
     tocList = document.createElement("ol");    
 
     // Get the h3 tags - ToC entries
-    headers = document.getElementsByTagName("h3");
+    headers = document.getElementsByTagName("h2");
     
     // For each h3
     for (i = 0; i < headers.length; i++){
@@ -98,7 +98,7 @@ specials as a guest chef at a local restaurant for fun!
       // a list item for the entry
       tocListItem = document.createElement("li");
 
-      // a link for the h3
+      // a link for the h2
       tocEntry = document.createElement("a");
       tocEntry.setAttribute("href","#"+name);
       tocEntry.innerText=headers[i].innerText;
