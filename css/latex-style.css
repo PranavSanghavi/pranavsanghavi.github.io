@@ -708,7 +708,7 @@ a.button:hover {
 
 @media print {
   body {
-    line-height: 1.2;
+    line-height: 1.5;
     max-width: 100ch;
     background-color: #fff;
     color: #000;
