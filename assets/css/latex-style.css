@@ -707,7 +707,6 @@ a.button:hover {
 @media print {
   html {
     font-size: 14px;
-    overflow: auto;
   }
 }
 
@@ -724,6 +723,6 @@ a.button:hover {
 
   .container,
   .container * {
-    display: block;
+    overflow: auto;
   }
 }
