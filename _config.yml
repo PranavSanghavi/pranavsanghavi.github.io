@@ -30,3 +30,8 @@ toc:
   sublist_class: ""
   item_class: toc-entry
   item_prefix: toc-
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
