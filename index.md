@@ -16,8 +16,10 @@ abstract: This website is a brief compilation of details about the author. I dir
 </nav>
 
 <h1 id="intro">Introduction</h1>
-    
-Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virginia University, WV, USA. I build radio telescopes. My doctoral work focuses on Fast Radio Burst detection and Very Large Baseline Interferometric(VLBI) localization.
+
+Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virginia University, WV, USA. I build radio
+telescopes. My doctoral work focuses on Fast Radio Burst detection and Very Large Baseline Interferometric(VLBI)
+localization.
 
 <figure>
     <img src="/images/pranav.jpeg" loading="lazy" alt="Pranav" width="250" height="400" />
@@ -29,11 +31,11 @@ Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virgin
 
 <h1 id="research">Research Interests</h1>
 <ol>
-<li> Radio Astronomy </li>
-<li> Instrumentation </li>
-<li> Fast Radio Bursts </li>
-<li> Very Large Baseline Interferometry (VLBI) </li>
-<li> Cosmology </li>
+    <li> Radio Astronomy </li>
+    <li> Instrumentation </li>
+    <li> Fast Radio Bursts </li>
+    <li> Very Large Baseline Interferometry (VLBI) </li>
+    <li> Cosmology </li>
 </ol>
 <figure>
     <img src="/images/tone.png" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
@@ -63,4 +65,7 @@ Click on the links below to see my CV and the list of contributed publications.
 
 <h1 id="misc">Miscellenious</h1>
 
-When not building radio telescopes and crunching data, one can find me making <a href="https://m.soundcloud.com/pranav-sanghavi">music</a> and <a href="https://dimensionslost.com/">painting</a>. I enjoy long walks and consuming copious amounts of all art and books. I am an avid home cook who occasionally cooks specials as a guest chef at a local restaurant for fun!
+When not building radio telescopes and crunching data, one can find me making <a
+    href="https://m.soundcloud.com/pranav-sanghavi">music</a> and <a href="https://dimensionslost.com/">painting</a>. I
+enjoy long walks and consuming copious amounts of all art and books. I am an avid home cook who occasionally cooks
+specials as a guest chef at a local restaurant for fun!
