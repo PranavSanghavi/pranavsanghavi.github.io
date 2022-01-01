@@ -1,8 +1,11 @@
 <header>
-    <h1 class ="pagetitle">{{ page.title }}</h1>
+    <h1 class="pagetitle">{{ page.title }}</h1>
     <p class="author">
         {{ page.author }} <br />
         {{ page.date }}
+        {% if page.email %}
+        <i>{{ page.email }}</i>
+        {% endif %}
     </p>
 </header>
 
@@ -14,7 +17,7 @@
 </div>
 
 
-<div class = "no-print" style="text-align: center;">
+<div class="no-print" style="text-align: center;">
     <button id="dark-light">Click to switch to Dark Mode</button>
     <button onclick=window.print()>Print this Page</button>
 </div>
