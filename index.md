@@ -1,5 +1,5 @@
 ---
-title: Pranav Sanghavi<br />A Personal Website
+title: Pranav Sanghavi:<br />A Personal Website
 layout: home
 author: Pranav Sanghavi
 date: January 2021
