@@ -29,16 +29,18 @@
 				// Get the current selected theme, on the first run
 				// it should be `light`
 				var currentTheme = document.documentElement.getAttribute("data-theme");
+				console.log("current")
 				console.log(currentTheme)
 				// Switch between `dark` and `light`
 				var switchToTheme = currentTheme === "dark" ? "light" : "dark"
-				var currentTheme = document.documentElement.getAttribute("data-theme");
-				console.log(currentTheme)
 				// Set our current theme to the new one
 				document.documentElement.setAttribute("data-theme", switchToTheme);
 				if (currentTheme === 'dark') {
 					console.log(currentTheme)
-					buttonDarkMode.innerHTML = 'Click to switch to Dark Mode';
+					buttonDarkMode.innerHTML = 'Click to switch to Light Mode';
+					console.log("switching")
+					var currentTheme = document.documentElement.getAttribute("data-theme");
+					console.log(currentTheme)
 				} else {
 					buttonDarkMode.innerHTML = 'Click to switch to Dark Mode';
 				}
