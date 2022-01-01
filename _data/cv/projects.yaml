@@ -8,8 +8,7 @@
     - Assist teachers conduct workshops virtually or visit their schools. I also lead monthly meetings with teachers and enthusiasts from across the country.
     - I maintain the GNURadio out-of-tree module software package tailored for radio astronomy. <i>see <a href='https://github.com/WVURAIL/gr-radio_astro'>https://github.com/WVURAIL/gr-radio_astro</a></i><br>"
 
-
-- title: "TONE: A CHIME/FRB Outrigger Prototype" 
+- title: "TONE: A CHIME/FRB Outrigger Prototype"
   when: "2016 -- Current"
   brief: Primary PhD thesis project advised by Dr. Kevin Bandura
   where: "WVU/GBO"
@@ -17,7 +16,7 @@
     - I led the building of an array of 6m parabolic dishes at the Green Bank Observatory to serve as a VLBI station to achieve milli-arc-second localizations of one-off Fast Radio Bursts from a 3000+ km baseline.
     - I assembled, tested and debugged the analog chain including antennas, low noise amplifiers, RFoF transceivers.
     - Integrated and debugged the digital backend including the FPGA ICE boards and the  baseband recorder server on site. Also set up the VLBI triggering system.
-    - Worked on analysis of the baseband dump including, calibration, beamforming and cross correlation leading to the localization of the triggered pulses \& Fast Radio Bursts.
+    - Worked on analysis of the baseband dump including, calibration, beamforming and cross correlation leading to the localization of the triggered pulses & Fast Radio Bursts.
     - Actively perform troubleshooting and Maintainence of the instrument."
 
 - title: "Visiting Student Program at Raman Research Institute"
@@ -28,10 +27,10 @@
     - Worked on a gamut of small projects helping in the 'phase 0' of the Sky Watch Array Network (SWAN) with the primary goal of gaining a wide exposure to the field radio astronomy and instrumentation. Investigating the application of hough transforms to detect dispersed pulses.
     "
 
-- title: A Nuanced Thermal Analysis of a Proposed Living Space on Mars 
+- title: A Nuanced Thermal Analysis of a Proposed Living Space on Mars
   when: 2014
   brief: Advised by Prof. Satyajit Ghosh
-  where: VIT University 
+  where: VIT University
   details: "<br>
     - Running a PlanetWRF (Planet Weather Research and Forecast Model) Simulation of the Martian atmosphere & visualise the netCDF output using IDL(GDL) & MATLAB. The results were interpreted to choose a site for the living space on the surface, the materials & optimise the structural design."
 
