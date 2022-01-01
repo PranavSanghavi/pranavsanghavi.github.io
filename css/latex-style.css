@@ -622,30 +622,51 @@ footer {
   margin-right: 5px;
 }
 
-
-a.button {
-  display: inline-block;
-  padding: 0.35em 1.2em;
-  border: 0.1em solid #000000;
-  margin: 0 0.3em 0.3em 0;
-  border-radius: 0.12em;
-  box-sizing: border-box;
-  text-decoration: none;
-  font-family: inherit;
-  font-weight: 300;
-  color: #000000;
-  text-align: center;
-  transition: all 0.2s;
+:root {
+  --brand-basic: #ffffff;
+  --brand-accent: #000000;
 }
 
-a.button:hover {
-  color: #ffffff;
-  background-color: #000000;
+[data-theme="dark"] {
+  --brand-basic: #000000;
+  --brand-accent: #ffffff;
 }
 
-@media all and (max-width:30em) {
-  a.button {
-    display: block;
-    margin: 0.4em auto;
-  }
+body {
+  margin: 0
+}
+
+.contain {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--brand-basic);
+  transition: color 0.3s, background-color 0.3s;
+}
+
+.btn-toggle {
+  background-color: var(--brand-basic);
+  color: var(--brand-accent);
+  height: 48px;
+  width: 150px;
+  font-size: 16px;
+  border-radius: 6px;
+  letter-spacing: 3px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: color 0.3s, background-color 0.3s;
+  cursor: pointer;
+  border: 3px solid var(--brand-accent);
+}
+
+.button-toggle:hover {
+  background-color: var(--brand-accent);
+  color: var(--brand-basic);
+}
+
+.button-toggle:focus {
+  outline: none;
 }
