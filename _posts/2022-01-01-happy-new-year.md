@@ -2,7 +2,7 @@
 layout: default
 title: Happy New Year
 author: Pranav Sanghavi
-date: January 2022
+date: 2022-01-01
 abstract: Just want wish all of you a happy new year!
 published: true
 ---
