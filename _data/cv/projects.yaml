@@ -12,7 +12,7 @@
 - title: "TONE: A CHIME/FRB Outrigger Prototype" 
   when: "2016 -- Current"
   brief: Primary PhD thesis project advised by Dr. Kevin Bandura
-  where: WVU/GBO
+  where: "WVU/GBO"
   details: "<br>
     - I led the building of an array of 6m parabolic dishes at the Green Bank Observatory to serve as a VLBI station to achieve milli-arc-second localizations of one-off Fast Radio Bursts from a 3000+ km baseline.
     - I assembled, tested and debugged the analog chain including antennas, low noise amplifiers, RFoF transceivers.
@@ -20,8 +20,8 @@
     - Worked on analysis of the baseband dump including, calibration, beamforming and cross correlation leading to the localization of the triggered pulses \& Fast Radio Bursts.
     - Actively perform troubleshooting and Maintainence of the instrument."
 
-- title: Visiting Student Program at Raman Research Institute
-  when: 2014 -- 2015
+- title: "Visiting Student Program at Raman Research Institute"
+  when: "2014 -- 2015"
   brief: Advised by Prof. Avinash Deshpande
   where: RRI
   details: "<br>
