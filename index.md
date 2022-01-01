@@ -16,7 +16,9 @@ abstract: This website is a brief compilation of details about the author. I dir
     </ol>
 </nav>
 
-<h1 id="intro">Introduction</h1>
+<div id="ToC"></div>
+
+<h2 id="intro">Introduction</h1>
 
 Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virginia University, WV, USA. I build radio
 telescopes. My doctoral work focuses on Fast Radio Burst detection and Very Large Baseline Interferometric(VLBI)
@@ -30,7 +32,7 @@ localization.
     </figcaption>
 </figure>
 
-<h1 id="research">Research Interests</h1>
+<h2 id="research">Research Interests</h1>
 <ol>
     <li> Radio Astronomy </li>
     <li> Instrumentation </li>
@@ -55,7 +57,7 @@ localization.
     </figcaption>
 </figure>
 
-<h1 id="cv">Curriculum Vitae</h1>
+<h2 id="cv">Curriculum Vitae</h1>
 
 Click on the links below to see my CV and the list of contributed publications.
 
@@ -64,9 +66,45 @@ Click on the links below to see my CV and the list of contributed publications.
     <a href="{{ site.url }}/pub_list" class="button">Publication List</a>
 </div>
 
-<h1 id="misc">Miscellenious</h1>
+<h2 id="misc">Miscellenious</h1>
 
 When not building radio telescopes and crunching data, one can find me making <a
     href="https://m.soundcloud.com/pranav-sanghavi">music</a> and <a href="https://dimensionslost.com/">painting</a>. I
 enjoy long walks and consuming copious amounts of all art and books. I am an avid home cook who occasionally cooks
 specials as a guest chef at a local restaurant for fun!
+
+<script type="text/javascript">
+    // Get ToC div
+    toc = document.getElementById("ToC");
+
+    //Add a header
+    tocHeader = document.createElement("h2");
+    tocHeader.innerText="Table of contents";
+    toc.appendChild(tocHeader);
+    
+    // Create a list for the ToC entries
+    tocList = document.createElement("ol");    
+
+    // Get the h3 tags - ToC entries
+    headers = document.getElementsByTagName("h3");
+    
+    // For each h3
+    for (i = 0; i < headers.length; i++){
+      
+      // Create an id
+      name = "h"+i;
+      headers[i].id=name;
+      
+      // a list item for the entry
+      tocListItem = document.createElement("li");
+
+      // a link for the h3
+      tocEntry = document.createElement("a");
+      tocEntry.setAttribute("href","#"+name);
+      tocEntry.innerText=headers[i].innerText;
+      
+      tocListItem.appendChild(tocEntry);
+      tocList.appendChild(tocListItem);
+    }
+    toc.appendChild(tocList);
+</script>
