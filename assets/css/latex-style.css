@@ -13,7 +13,7 @@
 }
 
 [data-theme="dark"] {
-  --background-color: #3F3F3F;
+  --background-color: #302f2f;
   --text-color: #fff;
   --atext-color: rgb(167, 182, 241);
   --atext-focus-color: rgb(169, 183, 238);
@@ -627,6 +627,7 @@ footer {
   border-bottom: 1px solid hsl(0, 0%, 0%);
   font-variant: small-caps;
 }
+
 .container {
   width: 100%;
 }
@@ -680,15 +681,19 @@ a.button:hover {
 @media print {
   h1 {
     font-size: 20px;
+    page-break-before: always;
   }
+
   h1.pagetitle {
     font-size: 30px;
+    page-break-before: avoid;
   }
 }
 
 @media print {
   html {
     font-size: 14px;
+    overflow: auto;
   }
 }
 
@@ -698,5 +703,16 @@ a.button:hover {
     max-width: 100ch;
     background-color: #fff;
     color: #000;
+    overflow: auto;
+  }
+}
+
+@media print {
+  div {
+    overflow: auto;
+  }
+
+  div.container {
+    break-inside: avoid;
   }
 }
