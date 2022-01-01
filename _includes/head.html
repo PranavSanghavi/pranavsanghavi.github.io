@@ -42,24 +42,15 @@
 		});
 	</script>
 	<!-- Script to print the content of a div -->
-	<script>
-		function printDiv() {
-			var divContents = document.getElementById("printable").innerHTML;
-			var a = window.open('', '', 'height=500, width=500');
-			a.document.write('<html>');
-			a.document.write('<head>');
-			a.document.write('<link rel="stylesheet" href="/css/latex-style.css" />')
-			a.document.write('<link rel="stylesheet" href="/prism/prism.css" />')
-			a.document.write(
-				'<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">'
-				)
-			a.document.write('<link href="/css/academicons.css" rel="stylesheet">')
-			a.document.write('</head>');
-			a.document.write('<body>');
-			a.document.write(divContents);
-			a.document.write('</body></html>');
-			a.document.close();
-			a.print();
+	<script type="text/javascript">
+		function codespeedy() {
+			var print_div = document.getElementById("printable");
+			var print_area = window.open();
+			print_area.document.write(print_div.innerHTML);
+			print_area.document.close();
+			print_area.focus();
+			print_area.print();
+			print_area.close();
 		}
 	</script>
 
