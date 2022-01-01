@@ -690,3 +690,10 @@ a.button:hover {
     page-break-before: always;
   }
 }
+
+
+@media print {
+  html {
+    font-size: 13px;
+  }
+}
