@@ -5,6 +5,11 @@
  * Licensed under MIT (https://github.com/vincentdoerig/latex-css/blob/master/LICENSE)
 */
 
+:root {
+  --background-color: #fff;
+  --text-color: #000;
+}
+
 @font-face {
   font-family: 'Latin Modern';
   font-style: normal;
@@ -123,6 +128,11 @@ html {
   scroll-behavior: smooth;
 }
 
+[data-theme="dark"] {
+  --background-color: #3F3F3F;
+  --text-color: #fff;
+}
+
 body.libertinus {
   font-family: 'Libertinus', Georgia, Cambria, 'Times New Roman', Times, serif;
 }
@@ -143,8 +153,8 @@ body {
   counter-reset: definition;
   counter-reset: sidenote-counter;
 
-  color: hsl(0, 5%, 10%);
-  background-color: hsl(210, 20%, 98%);
+  background-color: var(--background-color);
+  color: var(--text-color);
 
   text-rendering: optimizeLegibility;
 }
