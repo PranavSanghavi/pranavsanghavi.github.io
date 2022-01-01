@@ -684,3 +684,9 @@ a.button:hover {
     page-break-before: always;
   }
 }
+
+@media print {
+  figure {
+    page-break-before: always;
+  }
+}
