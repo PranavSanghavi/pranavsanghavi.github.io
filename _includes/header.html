@@ -1,12 +1,12 @@
 <header>
     <h1 class="pagetitle">{{ page.title }}</h1>
     <p class="author">
-        {{ page.author }} <br />
+        {{ site.name }} <br />
         {{ page.date }}
     </p>
     {% if page.email %}
     <p style="margin: 0.85rem 0; text-align: center;">
-        <i>{{ page.email }}</i>
+        <i>{{ site.email }}</i>
     </p>
     {% endif %}
 </header>
