@@ -1,0 +1,140 @@
+---
+layout: default
+---
+
+<br>
+
+<!-- Education -->
+<h1 id="edu">Education</h1>
+<hr>
+
+<div class="container">
+  {% for entry in site.data.cv.edu %}
+  <div class="content_left_responsive">
+    <p style='float: left; width: 100vw; max-width: 400px;'>
+      <b>{{ entry.school }}</b><br>
+      {{ entry.degree }}<br>
+      {% for detail in entry.details %}
+      {% if detail.advisor %}
+      Advisor: {{ detail.advisor }}<br>
+      {% endif %}
+      {% if detail.thesis %}
+      Thesis: {{ detail.thesis }}<br>
+      {% endif %}
+      {% endfor %}
+    </p>
+  </div>
+  <div class="content_left_responsive">
+    <p style='float: right'>
+      {{ entry.location }}<br>
+      {{ entry.dates }}<br>
+    </p>
+  </div>
+  {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>
+
+<!-- Work Experience -->
+<h1 id="edu">Experience</h1>
+<hr>
+
+<div class="container">
+  {% for entry in site.data.cv.work %}
+  <div class="content_left_responsive">
+    <p style='float: left; width: 100vw; max-width: 400px;'>
+      <b>{{ entry.place }}</b><br>
+      {% if entry.department %}
+      Department: <i>{{ entry.department }}</i><br>
+      {% endif %}
+      Title: {{ entry.title }}
+      {% for detail in entry.details %}
+      {% if detail.advisor %}
+      Advisor: {{ detail.advisor }}<br>
+      {% endif %}
+      {% if detail.duties %}
+      Duties: {{ detail.thesis }}<br>
+      {% endif %}
+      {% endfor %}
+    </p>
+  </div>
+  <div class="content_left_responsive">
+    <p style='float: right; margin-left: 5px;'>
+      {{ entry.location }}<br>
+      {{ entry.dates }}<br>
+    </p>
+  </div>
+  {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>
+
+<!-- Projects -->
+<h1 id="skills">Projects</h1>
+<hr>
+<div class="container">
+  {% for entry in site.data.cv.projects %}
+  <b> {{ entry.title }} </b><br>
+  <i> {{ entry.brief }} </i>,{{ entry.where }}.<br>
+  {{ entry.when }}
+  {% if entry.details %}
+  <p>
+    {{ entry.details }}
+  </p><br>
+  {% endif %}
+  {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>
+
+<!-- Presentations -->
+<h1 id="pres">Science Talks & Presentations</h1>
+<hr>
+
+<div class="container">
+  {% for entry in site.data.cv.presentations %}
+  {% if entry.url %}
+  <b><a href="{{ entry.url }}">{{ entry.title }}</a></b><br>
+  {% else %}
+  <b>{{ entry.title }}</b><br>
+  {% endif %}
+  <i>{{ entry.what }}</i> at the {{ entry.where }}, {{ entry.when }}.<br>
+  {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>
+
+<!-- Collaborations -->
+<h1 id="skills">Large Collaborations</h1>
+<hr>
+
+<div class="container">
+  {% for entry in site.data.cv.collabs %}
+  <p>
+    <b> {{ entry.name }} </b>: {{ entry.work }}<br>
+  </p>
+  {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>
+
+<!-- Skills -->
+<h1 id="skills">Skills</h1>
+<hr>
+
+<div class="container">
+  {% for entry in site.data.cv.skills %}
+  <p>
+    <b>{{ entry.title }} </b>: {{ entry.description }}<br>
+  </p>
+  {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+
+{{ content }}
