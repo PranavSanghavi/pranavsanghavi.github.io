@@ -10,11 +10,18 @@ data_dir: _data
 includes_dir: _includes
 include: ["_pages"]
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      toc: true
+
 collections:
   posts:
     output: true
 
 plugins:
+  - jekyll-toc
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
