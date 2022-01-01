@@ -18,7 +18,7 @@ abstract: This website is a brief compilation of details about the author. I dir
 
 <div id="ToC"></div>
 
-<h2 id="intro">Introduction</h1>
+<h2 id="intro">Introduction</h2>
 
 Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virginia University, WV, USA. I build radio
 telescopes. My doctoral work focuses on Fast Radio Burst detection and Very Large Baseline Interferometric(VLBI)
@@ -32,7 +32,7 @@ localization.
     </figcaption>
 </figure>
 
-<h2 id="research">Research Interests</h1>
+<h2 id="research">Research Interests</h2>
 <ol>
     <li> Radio Astronomy </li>
     <li> Instrumentation </li>
@@ -57,7 +57,7 @@ localization.
     </figcaption>
 </figure>
 
-<h2 id="cv">Curriculum Vitae</h1>
+<h2 id="cv">Curriculum Vitae</h2>
 
 Click on the links below to see my CV and the list of contributed publications.
 
@@ -66,7 +66,7 @@ Click on the links below to see my CV and the list of contributed publications.
     <a href="{{ site.url }}/pub_list" class="button">Publication List</a>
 </div>
 
-<h2 id="misc">Miscellenious</h1>
+<h2 id="misc">Miscellenious</h2>
 
 When not building radio telescopes and crunching data, one can find me making <a
     href="https://m.soundcloud.com/pranav-sanghavi">music</a> and <a href="https://dimensionslost.com/">painting</a>. I
