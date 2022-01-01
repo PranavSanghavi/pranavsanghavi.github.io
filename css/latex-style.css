@@ -661,8 +661,7 @@ a.button:hover {
   }
 }
 
-
-.btn-toggle {
+.btn {
   display: inline-block;
   padding: 0.35em 1.2em;
   border: 0.1em solid var(--text-color);
@@ -674,14 +673,17 @@ a.button:hover {
   font-weight: 300;
   color: var(--text-color);
   text-align: center;
-  transition: all 0.3s;
+  transition: all 0.2s;
 }
 
-.button-toggle:hover {
+.btn:hover {
   background-color: var(--text-color);
   color: var(--background-color);
 }
 
-.button-toggle:focus {
-  outline: none;
+@media all and (max-width:30em) {
+  .btn {
+    display: block;
+    margin: 0.4em auto;
+  }
 }
