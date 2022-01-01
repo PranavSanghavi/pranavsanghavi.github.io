@@ -671,8 +671,16 @@ a.button:hover {
   .no-print * {
     display: none !important;
   }
+}
 
-  * {
-    overflow: visible !important;
+@media print {
+  h1 {
+    page-break-before: always;
+  }
+}
+
+@media print {
+  img {
+    page-break-before: always;
   }
 }
