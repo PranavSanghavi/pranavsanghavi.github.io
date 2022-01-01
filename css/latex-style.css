@@ -663,17 +663,18 @@ a.button:hover {
 
 
 .btn-toggle {
-  background-color: var(--background-color);
-  color: var(--text-color);
-  height: 48px;
-  width: 150px;
-  font-size: 16px;
-  border-radius: 6px;
   display: inline-block;
-  justify-content: center;
-  align-items: center;
+  padding: 0.35em 1.2em;
+  border: 0.1em solid var(--text-color);
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.12em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: inherit;
+  font-weight: 300;
+  color: var(--text-color);
+  text-align: center;
   transition: all 0.3s;
-  border: 3px solid var(--background-color);
 }
 
 .button-toggle:hover {
