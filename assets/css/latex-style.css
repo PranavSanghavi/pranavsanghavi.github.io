@@ -721,3 +721,7 @@ a.button:hover {
     display: none;
   }
 }
+
+.cv-section{
+  text-align: left;
+}
