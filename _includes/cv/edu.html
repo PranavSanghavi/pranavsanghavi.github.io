@@ -1,0 +1,31 @@
+<!-- Education -->
+<h1 id="edu">Education</h1>
+<hr>
+
+<div class="container">
+    {% for entry in site.data.cv.edu %}
+    <div class="content_left_responsive">
+        <p style='float: left; width: 100vw; max-width: 400px;'>
+            <b>{{ entry.school }}</b><br>
+            {{ entry.degree }}<br>
+            {% for detail in entry.details %}
+            {% if detail.advisor %}
+            Advisor: {{ detail.advisor }}<br>
+            {% endif %}
+            {% if detail.thesis %}
+            Thesis: {{ detail.thesis }}<br>
+            {% endif %}
+            {% endfor %}
+        </p>
+    </div>
+    <div class="content_left_responsive">
+        <p style='float: right'>
+            {{ entry.location }}<br>
+            {{ entry.dates }}<br>
+        </p>
+    </div>
+    {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>

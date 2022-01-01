@@ -1,0 +1,34 @@
+<!-- Work Experience -->
+<h1 id="edu">Experience</h1>
+<hr>
+
+<div class="container">
+    {% for entry in site.data.cv.work %}
+    <div class="content_left_responsive">
+        <p style='float: left; width: 100vw; max-width: 400px;'>
+            <b>{{ entry.place }}</b><br>
+            {% if entry.department %}
+            Department: <i>{{ entry.department }}</i><br>
+            {% endif %}
+            Title: {{ entry.title }}
+            {% for detail in entry.details %}
+            {% if detail.advisor %}
+            Advisor: {{ detail.advisor }}<br>
+            {% endif %}
+            {% if detail.duties %}
+            Duties: {{ detail.thesis }}<br>
+            {% endif %}
+            {% endfor %}
+        </p>
+    </div>
+    <div class="content_left_responsive">
+        <p style='float: right; margin-left: 5px;'>
+            {{ entry.location }}<br>
+            {{ entry.dates }}<br>
+        </p>
+    </div>
+    {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>
