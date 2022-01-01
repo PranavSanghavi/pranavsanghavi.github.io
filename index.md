@@ -13,7 +13,7 @@ telescopes. My doctoral work focuses on Fast Radio Burst detection and Very Larg
 localization.
 
 <figure>
-    <img src="/images/pranav.jp2" loading="lazy" alt="Pranav" width="250" height="400" />
+    <img src="/images/pranav.webp" loading="lazy" alt="Pranav" width="250" height="400" />
     <figcaption>
         <em>Figure 1:</em> Pranav Sanghavi, cool person.
         <a href=""></a>
@@ -29,7 +29,7 @@ localization.
     <li> Cosmology </li>
 </ol>
 <figure>
-    <img src="/images/tone.jp2" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
+    <img src="/images/tone.webp" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
     <figcaption>
         <em>Figure 2:</em> TONE: A 6m parabolic dish array at the Green Bank Observatory.
         <a href=""></a>
@@ -37,7 +37,7 @@ localization.
 </figure>
 
 <figure>
-    <img src="/images/tonesnow.jp2" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
+    <img src="/images/tonesnow.webp" loading="lazy" alt="TONE: Array of radio telescope dishes" width="600" height="400" />
     <figcaption>
         <em>Figure 3:</em> TONE: A 6m parabolic dish array at Green Bank Observatory with the Green Bank Telescope
         in the background.
