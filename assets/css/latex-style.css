@@ -698,10 +698,6 @@ a.button:hover {
     font-size: 30px !important;
     page-break-before: avoid !important;
   }
-
-  h1.cv-section {
-    text-align: left !important;
-  }
 }
 
 @media print {
@@ -726,3 +722,10 @@ a.button:hover {
     overflow: auto;
   }
 }
+
+@media print {
+  figure {
+    overflow: auto;
+  }
+}
+  
