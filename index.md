@@ -86,11 +86,9 @@ specials as a guest chef at a local restaurant for fun!
 
     // Get the h3 tags - ToC entries
     headers = document.getElementsByTagName("h2");
-    headers[0].remove();
-    headers[1].remove();
-    
+
     // For each h3
-    for (i = 0; i < headers.length; i++){
+    for (i = 2; i < headers.length; i++){
       
       // Create an id
       name = "h"+i;
