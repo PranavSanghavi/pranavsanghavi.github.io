@@ -672,8 +672,7 @@ a.button:hover {
   display: inline-block;
   justify-content: center;
   align-items: center;
-  transition: color 0.3s, background-color 0.3s;
-  cursor: pointer;
+  transition: all 0.3s;
   border: 3px solid var(--background-color);
 }
 
