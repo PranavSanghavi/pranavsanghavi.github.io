@@ -1,0 +1,18 @@
+<!-- Projects -->
+<h1 id="skills">Projects</h1>
+<hr>
+<div class="container">
+    {% for entry in site.data.cv.projects %}
+    <b> {{ entry.title }} </b><br>
+    <i> {{ entry.brief }} </i>,{{ entry.where }}.<br>
+    {{ entry.when }}
+    {% if entry.details %}
+    <p>
+        {{ entry.details }}
+    </p><br>
+    {% endif %}
+    {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>

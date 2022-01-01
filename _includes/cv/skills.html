@@ -1,0 +1,15 @@
+<!-- Skills -->
+<h1 id="skills">Skills</h1>
+<hr>
+
+<div class="container">
+    {% for entry in site.data.cv.skills %}
+        <p>
+            <b>{{ entry.title }}
+            </b>:
+            {{ entry.description }}<br>
+        </p>
+    {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>

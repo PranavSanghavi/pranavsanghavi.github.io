@@ -8,70 +8,12 @@ layout: default
 
 {% include cv/work.html %}
 
-<!-- Projects -->
-<h1 id="skills">Projects</h1>
-<hr>
-<div class="container">
-  {% for entry in site.data.cv.projects %}
-  <b> {{ entry.title }} </b><br>
-  <i> {{ entry.brief }} </i>,{{ entry.where }}.<br>
-  {{ entry.when }}
-  {% if entry.details %}
-  <p>
-    {{ entry.details }}
-  </p><br>
-  {% endif %}
-  {% endfor %}
-</div>
-<br>
-<a href="#">Go to Top</a>
-<br>
+{% include cv/projects.html %}
 
-<!-- Presentations -->
-<h1 id="pres">Science Talks & Presentations</h1>
-<hr>
+{% include cv/present.html %}
 
-<div class="container">
-  {% for entry in site.data.cv.presentations %}
-  {% if entry.url %}
-  <b><a href="{{ entry.url }}">{{ entry.title }}</a></b><br>
-  {% else %}
-  <b>{{ entry.title }}</b><br>
-  {% endif %}
-  <i>{{ entry.what }}</i> at the {{ entry.where }}, {{ entry.when }}.<br>
-  {% endfor %}
-</div>
-<br>
-<a href="#">Go to Top</a>
-<br>
+{% include cv/collabs.html %}
 
-<!-- Collaborations -->
-<h1 id="skills">Large Collaborations</h1>
-<hr>
-
-<div class="container">
-  {% for entry in site.data.cv.collabs %}
-  <p>
-    <b> {{ entry.name }} </b>: {{ entry.work }}<br>
-  </p>
-  {% endfor %}
-</div>
-<br>
-<a href="#">Go to Top</a>
-<br>
-
-<!-- Skills -->
-<h1 id="skills">Skills</h1>
-<hr>
-
-<div class="container">
-  {% for entry in site.data.cv.skills %}
-  <p>
-    <b>{{ entry.title }} </b>: {{ entry.description }}<br>
-  </p>
-  {% endfor %}
-</div>
-<br>
-<a href="#">Go to Top</a>
+{% include cv/skills.html %}
 
 {{ content }}

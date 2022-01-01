@@ -1,0 +1,14 @@
+<!-- Collaborations -->
+<h1 id="skills">Large Collaborations</h1>
+<hr>
+
+<div class="container">
+    {% for entry in site.data.cv.collabs %}
+    <p>
+        <b> {{ entry.name }} </b>: {{ entry.work }}<br>
+    </p>
+    {% endfor %}
+</div>
+<br>
+<a href="#">Go to Top</a>
+<br>
