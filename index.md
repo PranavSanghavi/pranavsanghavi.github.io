@@ -11,6 +11,7 @@ abstract: This website is a brief compilation of details about the author. I dir
     <ol>
         <li><a href="#intro">Introduction</a></li>
         <li><a href="#research">Research Interstests</a></li>
+        <li><a href="#cv">Curriculum Vitae</a></li>
         <li><a href="#misc">Miscellenious</a></li>
     </ol>
 </nav>
