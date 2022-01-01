@@ -124,7 +124,6 @@ p,
 ul[class],
 ol[class],
 li,
-pagetitle,
 figure,
 figcaption,
 dl,
@@ -322,6 +321,10 @@ figcaption {
 /* Center align the title */
 h1:first-child {
   text-align: center;
+}
+
+h1.cv-section {
+  text-align: left;
 }
 
 /* Nested ordered list for ToC */
@@ -678,6 +681,14 @@ a.button:hover {
   }
 }
 
+@media screen {
+
+  .only-print,
+  .only-print * {
+    display: none !important;
+  }
+}
+
 @media print {
   h1 {
     font-size: 20px !important;
@@ -709,19 +720,10 @@ a.button:hover {
   }
 }
 
-
 @media print {
-  .container {
+
+  .container,
+  .container * {
     display: block;
   }
-}
-
-@media screen {
-  .only-print{
-    display: none;
-  }
-}
-
-.cv-section{
-  text-align: left;
 }
