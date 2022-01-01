@@ -676,7 +676,6 @@ a.button:hover {
 @media print {
   h1 {
     page-break-before: always;
-    font-size: 25px;
   }
 }
 
