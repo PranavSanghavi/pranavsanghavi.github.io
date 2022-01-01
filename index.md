@@ -6,18 +6,6 @@ date: January 2021
 abstract: This website is a brief compilation of details about the author. I direct the reader to pertinent information. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
 ---
 
-<nav role="navigation" class="toc">
-    <h2>Contents</h2>
-    <ol>
-        <li><a href="#intro">Introduction</a></li>
-        <li><a href="#research">Research Interstests</a></li>
-        <li><a href="#cv">Curriculum Vitae</a></li>
-        <li><a href="#misc">Miscellenious</a></li>
-    </ol>
-</nav>
-
-<div id="ToC"></div>
-
 <h2 id="intro">Introduction</h2>
 
 Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virginia University, WV, USA. I build radio
@@ -72,38 +60,3 @@ When not building radio telescopes and crunching data, one can find me making <a
     href="https://m.soundcloud.com/pranav-sanghavi">music</a> and <a href="https://dimensionslost.com/">painting</a>. I
 enjoy long walks and consuming copious amounts of all art and books. I am an avid home cook who occasionally cooks
 specials as a guest chef at a local restaurant for fun!
-
-<script type="text/javascript">
-    // Get ToC div
-    toc = document.getElementById("ToC");
-    //Add a header
-    tocHeader = document.createElement("h2");
-    tocHeader.innerText="Table of contents";
-    toc.appendChild(tocHeader);
-    
-    // Create a list for the ToC entries
-    tocList = document.createElement("ol");    
-
-    // Get the h3 tags - ToC entries
-    headers = document.getElementsByTagName("h2");
-
-    // For each h3
-    for (i = 2; i < headers.length; i++){
-      
-      // Create an id
-      name = "h"+i;
-      headers[i].id=name;
-      
-      // a list item for the entry
-      tocListItem = document.createElement("li");
-
-      // a link for the h2
-      tocEntry = document.createElement("a");
-      tocEntry.setAttribute("href","#"+name);
-      tocEntry.innerText=headers[i].innerText;
-
-      tocListItem.appendChild(tocEntry);
-      tocList.appendChild(tocListItem);
-    }
-    toc.appendChild(tocList);
-</script>
