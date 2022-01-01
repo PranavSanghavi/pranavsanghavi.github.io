@@ -4,7 +4,7 @@
     <h1 id="proj" class="cv-section">Projects</h1>
     {% for entry in site.data.cv.projects %}
     <b> {{ entry.title }} </b><br>
-    <i> {{ entry.brief }} </i>,{{ entry.where }}.<br>
+    <i>{{ entry.brief }}</i>, {{ entry.where }}.<br>
     {{ entry.when }}
     {% if entry.details %}
     <p>
@@ -14,6 +14,8 @@
     {% endfor %}
 </div>
 
+<br class = "only-print">
+<br class = "only-print">
 <br>
 <a class="no-print" href="#">Go to Top</a>
 <br>
