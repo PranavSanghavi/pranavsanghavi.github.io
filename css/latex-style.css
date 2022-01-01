@@ -676,6 +676,7 @@ a.button:hover {
 @media print {
   h1 {
     page-break-before: always;
+    font-size: 15px;
   }
 }
 
@@ -695,5 +696,12 @@ a.button:hover {
 @media print {
   html {
     font-size: 13px;
+  }
+}
+
+@media print {
+  body {
+    background-color: #fff;
+    color: #000;
   }
 }
