@@ -707,7 +707,7 @@ a.button:hover {
 
 
 @media print {
-  div.container {
+  .container {
     page-break-before: always !important;
   }
 }
