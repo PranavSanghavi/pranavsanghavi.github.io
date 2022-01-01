@@ -13,7 +13,7 @@ telescopes. My doctoral work focuses on Fast Radio Burst detection and Very Larg
 localization.
 
 <figure>
-    <img src="/images/pranav.webp" onerror="if (this.src != 'pranav.webp') this.src = '/images/pranav.jepg';" loading="lazy" alt="Pranav" width="250" height="400" />
+    <img src="/images/pranav.webp" onerror="if (this.src != '/images/pranav.webp') this.src = '/images/pranav.jpeg';" loading="lazy" alt="Pranav" width="250" height="400" />
     <figcaption>
         <em>Figure 1:</em> Pranav Sanghavi, cool person.
         <a href=""></a>
