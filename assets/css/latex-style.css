@@ -706,3 +706,10 @@ a.button:hover {
     overflow: auto;
   }
 }
+
+
+@media print {
+  div.container {
+    break-inside: avoid;
+  }
+}
