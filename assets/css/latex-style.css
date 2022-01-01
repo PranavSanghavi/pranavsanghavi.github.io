@@ -702,7 +702,6 @@ a.button:hover {
     max-width: 100ch;
     background-color: #fff;
     color: #000;
-    overflow: auto;
   }
 }
 
