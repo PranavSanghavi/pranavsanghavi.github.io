@@ -29,7 +29,16 @@
 				// Get the current selected theme, on the first run
 				// it should be `light`
 				var currentTheme = document.documentElement.getAttribute("data-theme");
-
+				if (currentTheme === 'dark') {
+					console.log("current")
+					console.log(currentTheme)
+					buttonDarkMode.innerHTML = 'Click to switch to Light Mode';
+				} else {
+					console.log("current")
+					console.log(currentTheme)
+					buttonDarkMode.innerHTML = 'Click to switch to Dark Mode';
+				}
+				console.log("switching")
 				// Switch between `dark` and `light`
 				var switchToTheme = currentTheme === "dark" ? "light" : "dark"
 				// Set our current theme to the new one
@@ -38,16 +47,10 @@
 					console.log("current")
 					console.log(currentTheme)
 					buttonDarkMode.innerHTML = 'Click to switch to Light Mode';
-					console.log("switching")
-					var currentTheme = document.documentElement.getAttribute("data-theme");
-					console.log(currentTheme)
 				} else {
 					console.log("current")
 					console.log(currentTheme)
 					buttonDarkMode.innerHTML = 'Click to switch to Dark Mode';
-					console.log("switching")
-					var currentTheme = document.documentElement.getAttribute("data-theme");
-					console.log(currentTheme)
 				}
 			}
 		});
