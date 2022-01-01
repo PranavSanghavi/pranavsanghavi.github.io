@@ -1,42 +1,42 @@
 <footer>
-    <div class = "no-print" style="text-align: center; border-top: 1px solid hsl(0, 0%, 0%);">
-        <i class="fas fa-house"></i> <a href="{{ site.url }}">Home</a> <i class="fas fa-certificate fa-spin"></i> <a
-            href="{{ site.url }}/Acknowledgements">Acknowledgements</a> <i class="fas fa-arrow-circle-up"></i> <a
-            href="#">Go to Top</a>
-    </div>
+  <div class="no-print" style="text-align: center; border-top: 1px solid hsl(0, 0%, 0%);">
+    <i class="fas fa-house"></i> <a href="{{ site.url }}">Home</a> <i class="fas fa-certificate fa-spin"></i> <a
+      href="{{ site.url }}/Acknowledgements">Acknowledgements</a> <i class="fas fa-arrow-circle-up"></i> <a href="#">Go
+      to Top</a>
+  </div>
 </footer>
 
 <script type="text/javascript">
-    // Get ToC div
-    toc = document.getElementById("ToC");
-    //Add a header
-    tocHeader = document.createElement("h2");
-    tocHeader.innerText = "Contents";
-    toc.appendChild(tocHeader);
+  // Get ToC div
+  toc = document.getElementById("ToC");
+  //Add a header
+  tocHeader = document.createElement("h2");
+  tocHeader.innerText = "Contents";
+  toc.appendChild(tocHeader);
 
-    // Create a list for the ToC entries
-    tocList = document.createElement("ol");
+  // Create a list for the ToC entries
+  tocList = document.createElement("ol");
 
-    // Get the h3 tags - ToC entries
-    headers = document.getElementsByTagName("h2");
+  // Get the h3 tags - ToC entries
+  headers = document.getElementsByTagName("h2");
 
-    // For each h3
-    for (i = 2; i < headers.length; i++) {
+  // For each h3
+  for (i = 2; i < headers.length; i++) {
 
-      // Create an id
-      name = "h" + i;
-      headers[i].id = name;
+    // Create an id
+    name = "h" + i;
+    headers[i].id = name;
 
-      // a list item for the entry
-      tocListItem = document.createElement("li");
+    // a list item for the entry
+    tocListItem = document.createElement("li");
 
-      // a link for the h2
-      tocEntry = document.createElement("a");
-      tocEntry.setAttribute("href", "#" + name);
-      tocEntry.innerText = headers[i].innerText;
+    // a link for the h2
+    tocEntry = document.createElement("a");
+    tocEntry.setAttribute("href", "#" + name);
+    tocEntry.innerText = headers[i].innerText;
 
-      tocListItem.appendChild(tocEntry);
-      tocList.appendChild(tocListItem);
-    }
-    toc.appendChild(tocList);
-  </script>
+    tocListItem.appendChild(tocEntry);
+    tocList.appendChild(tocListItem);
+  }
+  toc.appendChild(tocList);
+</script>
