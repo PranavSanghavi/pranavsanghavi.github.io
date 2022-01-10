@@ -53,7 +53,7 @@ Click on the links below to see my CV and the list of contributed publications.
     <a href="{{ site.url }}/pub_list" class="button">Publication List</a>
 </div>
 
-<h2 id="misc">Miscellenious</h2>
+<h2 id="misc">Miscellaneous</h2>
 
 When not building radio telescopes and crunching data, one can find me making <a
     href="https://m.soundcloud.com/pranav-sanghavi">music</a> and <a href="https://dimensionslost.com/">painting</a>. I
