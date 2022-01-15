@@ -230,16 +230,22 @@ entries:
             last: Tendulkar
         -   first: Andrew
             last: Zwaniga
-    crichton2022hydrogen:
+    10.1117/1.jatis.8.1.011019:
         type: article
-        title: 'Hydrogen Intensity and Real-Time Analysis Experiment: 256-element
-            array status and overview'
-        journal: Journal of Astronomical Telescopes, Instruments, and Systems
+        title: '{Hydrogen Intensity and Real-Time Analysis Experiment: 256-element
+            array status and overview}'
         volume: '8'
+        journal: Journal of Astronomical Telescopes, Instruments, and Systems
         number: '1'
-        pages: 011019
-        year: '2022'
         publisher: SPIE
+        pages: 1 -- 19
+        keywords: 21 cm, intensity mapping, cosmology, dark energy, radio transients,
+            interferometers, Hydrogen, Telescopes, Baryon acoustic oscillations, Radio
+            astronomy, Receivers, Physics, Visibility, Observatories, Pulsars, Signal
+            processing
+        year: '2022'
+        doi: 10.1117/1.JATIS.8.1.011019
+        url: https://doi.org/10.1117/1.JATIS.8.1.011019
         author:
         -   first: Devin
             last: Crichton
@@ -250,7 +256,7 @@ entries:
         -   first: Kevin
             last: Bandura
         -   first: Bruce
-            middle: A
+            middle: A.
             last: Bassett
         -   first: Carlos
             last: Bengaly
@@ -262,7 +268,211 @@ entries:
             last: Bucher
         -   first: Tzu-Ching
             last: Chang
-        -   last: others
+        -   first: H.
+            middle: Cynthia
+            last: Chiang
+        -   first: Jean-Francois
+            last: Cliche
+        -   first: Carolyn
+            last: Crichton
+        -   first: Romeel
+            last: Dave
+        -   first: Dirk
+            middle: I. L. De
+            last: Villiers
+        -   first: Matt
+            last: Dobbs
+        -   first: Aaron
+            middle: M.
+            last: Ewall-Wice
+        -   first: Scott
+            last: Eyono
+        -   first: Christopher
+            last: Finlay
+        -   first: Sindhu
+            last: Gaddam
+        -   first: Ken
+            last: Ganga
+        -   first: Kevin
+            middle: G.
+            last: Gayley
+        -   first: Kit
+            last: Gerodias
+        -   first: Tim
+            middle: B.
+            last: Gibbon
+        -   first: Austine
+            last: Gumba
+        -   first: Neeraj
+            last: Gupta
+        -   first: Maile
+            last: Harris
+        -   first: Heiko
+            last: Heilgendorff
+        -   first: Matt
+            last: Hilton
+        -   first: Adam
+            middle: D.
+            last: Hincks
+        -   first: Pascal
+            last: Hitz
+        -   first: Mona
+            last: Jalilvand
+        -   first: Roufurd
+            middle: P. M.
+            last: Julie
+        -   first: Zahra
+            last: Kader
+        -   first: Joseph
+            last: Kania
+        -   first: Dionysios
+            last: Karagiannis
+        -   first: Aris
+            last: Karastergiou
+        -   first: Kabelo
+            last: Kesebonye
+        -   first: Piyanat
+            last: Kittiwisit
+        -   first: Jean-Paul
+            last: Kneib
+        -   first: Kenda
+            last: Knowles
+        -   first: Emily
+            middle: R.
+            last: Kuhn
+        -   first: Martin
+            last: Kunz
+        -   first: Roy
+            last: Maartens
+        -   first: Vincent
+            last: MacKay
+        -   first: Stuart
+            last: MacPherson
+        -   first: Christian
+            last: Monstein
+        -   first: Kavilan
+            last: Moodley
+        -   first: V.
+            last: Mugundhan
+        -   first: Warren
+            last: Naidoo
+        -   first: Arun
+            last: Naidu
+        -   first: Laura
+            middle: B.
+            last: Newburgh
+        -   first: Viraj
+            last: Nistane
+        -   first: Amanda
+            middle: Di
+            last: Nitto
+        -   first: Deniz
+            last: Ölçek
+        -   first: Xinyu
+            last: Pan
+        -   first: Sourabh
+            last: Paul
+        -   first: Jeffrey
+            middle: B.
+            last: Peterson
+        -   first: Elizabeth
+            last: Pieters
+        -   first: Carla
+            last: Pieterse
+        -   first: Aritha
+            last: Pillay
+        -   first: Anna
+            middle: R.
+            last: Polish
+        -   first: Liantsoa
+            last: Randrianjanahary
+        -   first: Alexandre
+            last: Refregier
+        -   first: Andre
+            last: Renard
+        -   first: Edwin
+            last: Retana-Montenegro
+        -   first: Ian
+            middle: H.
+            last: Rout
+        -   first: Cyndie
+            last: Russeeawon
+        -   first: Alireza
+            middle: Vafaei
+            last: Sadr
+        -   first: Benjamin
+            middle: R. B.
+            last: Saliwanchik
+        -   first: Ajith
+            last: Sampath
+        -   first: Pranav
+            last: Sanghavi
+        -   first: Mario
+            middle: G.
+            last: Santos
+        -   first: Onkabetse
+            last: Sengate
+        -   first: J.
+            middle: Richard
+            last: Shaw
+        -   first: Jonathan
+            middle: L.
+            last: Sievers
+        -   first: Oleg
+            middle: M.
+            last: Smirnov
+        -   first: Kendrick
+            middle: M.
+            last: Smith
+        -   first: Ulrich
+            middle: Armel Mbou
+            last: Sob
+        -   first: Raghunathan
+            last: Srianand
+        -   first: Pieter
+            last: Stronkhorst
+        -   first: Dhaneshwar
+            middle: D.
+            last: Sunder
+        -   first: Simon
+            last: Tartakovsky
+        -   first: Russ
+            last: Taylor
+        -   first: Peter
+            last: Timbie
+        -   first: Emma
+            middle: E.
+            last: Tolley
+        -   first: Junaid
+            last: Townsend
+        -   first: Will
+            last: Tyndall
+        -   first: Cornelius
+            last: Ungerer
+        -   first: Jacques
+            prelast: van
+            last: Dyk
+        -   first: Gary
+            prelast: van
+            last: Vuuren
+        -   first: Keith
+            last: Vanderlinde
+        -   first: Thierry
+            last: Viant
+        -   first: Anthony
+            last: Walters
+        -   first: Jingying
+            last: Wang
+        -   first: Amanda
+            last: Weltman
+        -   first: Patrick
+            last: Woudt
+        -   first: Dallas
+            last: Wulf
+        -   first: Anatoly
+            last: Zavyalov
+        -   first: Zheng
+            last: Zhang
     cassanelli_2022:
         type: article
         doi: 10.3847/1538-3881/ac3d2f
