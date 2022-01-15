@@ -230,14 +230,16 @@ entries:
             last: Tendulkar
         -   first: Andrew
             last: Zwaniga
-    crichton2021the:
-        type: misc
-        title: 'The Hydrogen Intensity and Real-time Analysis eXperiment: 256-Element
-            Array Status and Overview'
-        year: '2021'
-        eprint: '2109.13755'
-        archiveprefix: arXiv
-        primaryclass: astro-ph.IM
+    crichton2022hydrogen:
+        type: article
+        title: 'Hydrogen Intensity and Real-Time Analysis Experiment: 256-element
+            array status and overview'
+        journal: Journal of Astronomical Telescopes, Instruments, and Systems
+        volume: '8'
+        number: '1'
+        pages: 011019
+        year: '2022'
+        publisher: SPIE
         author:
         -   first: Devin
             last: Crichton
@@ -248,7 +250,7 @@ entries:
         -   first: Kevin
             last: Bandura
         -   first: Bruce
-            middle: A.
+            middle: A
             last: Bassett
         -   first: Carlos
             last: Bengaly
@@ -260,285 +262,111 @@ entries:
             last: Bucher
         -   first: Tzu-Ching
             last: Chang
-        -   first: H.
-            middle: Cynthia
-            last: Chiang
-        -   first: Jean-Francois
-            last: Cliche
-        -   first: Carolyn
-            last: Crichton
-        -   first: Romeel
-            last: Dave
-        -   first: Dirk
-            middle: I. L.
-            prelast: de
-            last: Villiers
-        -   first: Matt
-            middle: A.
-            last: Dobbs
-        -   first: Aaron
-            middle: M.
-            last: Ewall-Wice
-        -   first: Scott
-            last: Eyono
-        -   first: Christopher
-            last: Finlay
-        -   first: Sindhu
-            last: Gaddam
-        -   first: Ken
-            last: Ganga
-        -   first: Kevin
-            middle: G.
-            last: Gayley
-        -   first: Kit
-            last: Gerodias
-        -   first: Tim
-            last: Gibbon
-        -   first: Austin
-            last: Gumba
-        -   first: Neeraj
-            last: Gupta
-        -   first: Maile
-            last: Harris
-        -   first: Heiko
-            last: Heilgendorf
-        -   first: Matt
-            last: Hilton
-        -   first: Adam
-            middle: D.
-            last: Hincks
-        -   first: Pascal
-            last: Hitz
-        -   first: Mona
-            last: Jalilvand
-        -   first: Roufurd
-            last: Julie
-        -   first: Zahra
-            last: Kader
-        -   first: Joseph
-            last: Kania
-        -   first: Dionysios
-            last: Karagiannis
-        -   first: Aris
-            last: Karastergiou
-        -   first: Kabelo
-            last: Kesebonye
-        -   first: Piyanat
-            last: Kittiwisit
-        -   first: Jean-Paul
-            last: Kneib
-        -   first: Kenda
-            last: Knowles
-        -   first: Emily
-            middle: R.
-            last: Kuhn
-        -   first: Martin
-            last: Kunz
-        -   first: Roy
-            last: Maartens
-        -   first: Vincent
-            last: MacKay
-        -   first: Stuart
-            last: MacPherson
-        -   first: Christian
-            last: Monstein
-        -   first: Kavilan
-            last: Moodley
-        -   first: V.
-            last: Mugundhan
-        -   first: Warren
-            last: Naidoo
-        -   first: Arun
-            last: Naidu
-        -   first: Laura
-            middle: B.
-            last: Newburgh
-        -   first: Viraj
-            last: Nistane
-        -   first: Amanda
-            middle: Di
-            last: Nitto
-        -   first: Deniz
-            last: \"{O}l\c{c}ek
-        -   first: Xinyu
-            last: Pan
-        -   first: Sourabh
-            last: Paul
-        -   first: Jeffrey
-            middle: B.
-            last: Peterson
-        -   first: Elizabeth
-            last: Pieters
-        -   first: Carla
-            last: Pieterse
-        -   first: Aritha
-            last: Pillay
-        -   first: Anna
-            middle: R.
-            last: Polish
-        -   first: Liantsoa
-            last: Randrianjanahary
-        -   first: Alexandre
-            last: Refregier
-        -   first: Andre
-            last: Renard
-        -   first: Edwin
-            last: Retana-Montenegro
-        -   first: Ian
-            middle: H.
-            last: Rout
-        -   first: Cyndie
-            last: Russeeawon
-        -   first: Alireza
-            middle: Vafaei
-            last: Sadr
-        -   first: Benjamin
-            middle: R. B.
-            last: Saliwanchik
-        -   first: Ajith
-            last: Sampath
-        -   first: Pranav
-            last: Sanghavi
-        -   first: Mario
-            middle: G.
-            last: Santos
-        -   first: Onkabetse
-            last: Sengate
-        -   first: J.
-            middle: Richard
-            last: Shaw
-        -   first: Jonathan
-            middle: L.
-            last: Sievers
-        -   first: Oleg
-            middle: M.
-            last: Smirnov
-        -   first: Kendrick
-            middle: M.
-            last: Smith
-        -   first: Ulrich
-            middle: Armel Mbou
-            last: Sob
-        -   first: Raghunathan
-            last: Srianand
-        -   first: Pieter
-            last: Stronkhorst
-        -   first: Dhaneshwar
-            middle: D.
-            last: Sunder
-        -   first: Simon
-            last: Tartakovsky
-        -   first: Russ
-            last: Taylor
-        -   first: Peter
-            last: Timbie
-        -   first: Emma
-            middle: E.
-            last: Tolley
-        -   first: Junaid
-            last: Townsend
-        -   first: Will
-            last: Tyndall
-        -   first: Cornelius
-            last: Ungerer
-        -   first: Jacques
-            prelast: van
-            last: Dyk
-        -   first: Gary
-            prelast: van
-            last: Vuuren
-        -   first: Keith
-            last: Vanderlinde
-        -   first: Thierry
-            last: Viant
-        -   first: Anthony
-            last: Walters
-        -   first: Jingying
-            last: Wang
-        -   first: Amanda
-            last: Weltman
-        -   first: Patrick
-            last: Woudt
-        -   first: Dallas
-            last: Wulf
-        -   first: Anatoly
-            last: Zavyalov
-        -   first: Zheng
-            last: Zhang
-    cassanelli2021localizing:
-        type: misc
-        title: Localizing FRBs through VLBI with the Algonquin Radio Observatory 10-m
-            Telescope
-        year: '2021'
-        journal: arXiv e-prints
+        -   last: others
+    cassanelli_2022:
+        type: article
+        doi: 10.3847/1538-3881/ac3d2f
+        url: https://doi.org/10.3847/1538-3881/ac3d2f
+        year: '2022'
+        month: jan
+        publisher: American Astronomical Society
+        volume: '163'
+        number: '2'
+        pages: '65'
+        title: Localizing {FRBs} through {VLBI} with the Algonquin Radio Observatory
+            10 m Telescope
+        journal: The Astronomical Journal
+        abstract: The Canadian Hydrogen Intensity Mapping Experiment (CHIME)/FRB experiment
+            has detected thousands of fast radio bursts (FRBs) due to its sensitivity
+            and wide field of view; however, its low angular resolution prevents it
+            from localizing events to their host galaxies. Very long baseline interferometry
+            (VLBI), triggered by FRB detections from CHIME/FRB will solve the challenge
+            of localization for non-repeating events. Using a refurbished 10 m radio
+            dish at the Algonquin Radio Observatory located in Ontario Canada, we
+            developed a testbed for a VLBI experiment with a theoretical λ/D ≲ 30
+            mas. We provide an overview of the 10 m system and describe its refurbishment,
+            the data acquisition, and a procedure for fringe fitting that simultaneously
+            estimates the geometric delay used for localization and the dispersive
+            delay from the ionosphere. Using single pulses from the Crab pulsar, we
+            validate the system and localization procedure, and analyze the clock
+            stability between sites, which is critical for coherently delay referencing
+            an FRB event. We find a localization of ∼200 mas is possible with the
+            performance of the current system (single-baseline). Furthermore, for
+            sources with insufficient signal or restricted wideband to simultaneously
+            measure both geometric and ionospheric delays, we show that the differential
+            ionospheric contribution between the two sites must be measured to a precision
+            of 1 × 10−8 pc cm−3 to provide a reasonable localization from a detection
+            in the 400–800 MHz band. Finally we show detection of an FRB observed
+            simultaneously in the CHIME and the Algonquin 10 m telescope, the first
+            non-repeating FRB in this long baseline. This project serves as a testbed
+            for the forthcoming CHIME/FRB Outriggers project.
         author:
-        -   first: Tomas
+        -   first: T.
             last: Cassanelli
         -   first: Calvin
             last: Leung
-        -   first: Mubdi
+        -   first: M.
             last: Rahman
-        -   first: Keith
+        -   first: K.
             last: Vanderlinde
-        -   first: Juan
+        -   first: J.
             last: Mena-Parra
-        -   first: Savannah
+        -   first: S.
             last: Cary
         -   first: Kiyoshi
             middle: W.
             last: Masui
         -   first: Jing
             last: Luo
-        -   first: Hsiu-Hsien
+        -   first: H.-H.
             last: Lin
-        -   first: Akanksha
+        -   first: A.
             last: Bij
-        -   first: Ajay
+        -   first: A.
             last: Gill
-        -   first: Daniel
+        -   first: D.
             last: Baker
         -   first: Kevin
             last: Bandura
-        -   first: Sabrina
+        -   first: S.
             last: Berger
-        -   first: Patrick
+        -   first: P.
             middle: J.
             last: Boyle
         -   first: Charanjot
             last: Brar
-        -   first: Shami
+        -   first: S.
             last: Chatterjee
-        -   first: Davor
+        -   first: D.
             last: Cubranic
         -   first: Matt
             last: Dobbs
-        -   first: Emmanuel
+        -   first: E.
             last: Fonseca
-        -   first: Deborah
+        -   first: D.
             middle: C.
             last: Good
-        -   first: Jane
+        -   first: J.
             middle: F.
             last: Kaczmarek
         -   first: V.
             middle: M.
             last: Kaspi
-        -   first: Thomas
+        -   first: T.
             middle: L.
             last: Landecker
-        -   first: Adam
+        -   first: A.
             middle: E.
             last: Lanman
         -   first: Dongzi
-            middle: Z.
             last: Li
-        -   first: James
+        -   first: J.
             middle: W.
             last: McKee
-        -   first: Bradley
+        -   first: B.
             middle: W.
             last: Meyers
-        -   first: Daniele
+        -   first: D.
             last: Michilli
         -   first: Arun
             last: Naidu
@@ -549,17 +377,18 @@ entries:
         -   first: Aaron
             middle: B.
             last: Pearlman
-        -   first: Ue-Li
+        -   first: U.
+            middle: L.
             last: Pen
         -   first: Ziggy
             last: Pleunis
         -   first: Brendan
             last: Quine
-        -   first: Andre
+        -   first: A.
             last: Renard
         -   first: Pranav
             last: Sanghavi
-        -   first: Kendrick
+        -   first: K.
             middle: M.
             last: Smith
         -   first: Ingrid
@@ -797,16 +626,16 @@ entries:
             last: Zwaniga
     pleunis_2021:
         type: article
-        title: Fast Radio Burst Morphology in the First {CHIME}/{FRB} Catalog
+        doi: 10.3847/1538-4357/ac33ac
+        url: https://doi.org/10.3847/1538-4357/ac33ac
         year: '2021'
         month: dec
-        journal: The Astrophysical Journal
         publisher: American Astronomical Society
         volume: '923'
         number: '1'
         pages: '1'
-        doi: 10.3847/1538-4357/ac33ac
-        url: https://doi.org/10.3847/1538-4357/ac33ac
+        title: Fast Radio Burst Morphology in the First {CHIME}/{FRB} Catalog
+        journal: The Astrophysical Journal
         abstract: We present a synthesis of fast radio burst (FRB) morphology (the
             change in flux as a function of time and frequency) as detected in the
             400–800 MHz octave by the FRB project on the Canadian Hydrogen Intensity
@@ -899,17 +728,17 @@ entries:
             last: Tendulkar
     josephy_2021:
         type: article
-        title: No Evidence for Galactic Latitude Dependence of the Fast Radio Burst
-            Sky Distribution
+        doi: 10.3847/1538-4357/ac33ad
+        url: https://doi.org/10.3847/1538-4357/ac33ad
         year: '2021'
         month: dec
-        journal: The Astrophysical Journal
         publisher: American Astronomical Society
         volume: '923'
         number: '1'
         pages: '2'
-        doi: 10.3847/1538-4357/ac33ad
-        url: https://doi.org/10.3847/1538-4357/ac33ad
+        title: No Evidence for Galactic Latitude Dependence of the Fast Radio Burst
+            Sky Distribution
+        journal: The Astrophysical Journal
         abstract: We investigate whether the sky rate of fast radio bursts (FRBs)
             depends on Galactic latitude using the first catalog of FRBs detected
             by the Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst
@@ -992,16 +821,16 @@ entries:
             last: Zwaniga
     amiri_2021:
         type: article
-        title: The First {CHIME}/{FRB} Fast Radio Burst Catalog
+        doi: 10.3847/1538-4365/ac33ab
+        url: https://doi.org/10.3847/1538-4365/ac33ab
         year: '2021'
         month: dec
-        journal: The Astrophysical Journal Supplement Series
         publisher: American Astronomical Society
         volume: '257'
         number: '2'
         pages: '59'
-        doi: 10.3847/1538-4365/ac33ab
-        url: https://doi.org/10.3847/1538-4365/ac33ab
+        title: The First {CHIME}/{FRB} Fast Radio Burst Catalog
+        journal: The Astrophysical Journal Supplement Series
         abstract: We present a catalog of 536 fast radio bursts (FRBs) detected by
             the Canadian Hydrogen Intensity Mapping Experiment Fast Radio Burst (CHIME/FRB)
             Project between 400 and 800 MHz from 2018 July 25 to 2019 July 1, including
@@ -1730,7 +1559,6 @@ entries:
         title: Optimization of Radio Array Telescopes to Search for Fast RadioBursts
         year: '2020'
         journal: arXiv e-prints
-        url: https://arxiv.org/abs/2001.06526
         author:
         -   first: Jeffrey
             middle: B
@@ -1747,7 +1575,6 @@ entries:
         booktitle: 2019 IEEE Integrated STEM Education Conference (ISEC)
         pages: 362--366
         doi: 10.1109/ISECon.2019.8882039
-        url: https://ieeexplore.ieee.org/document/8882039
         author:
         -   first: Pranav
             last: Sanghavi
@@ -1764,7 +1591,6 @@ entries:
         booktitle: Proceedings of the GNU Radio Conference
         volume: '3'
         number: '1'
-        url: https://pubs.gnuradio.org/index.php/grcon/article/view/53/39
         author:
         -   first: Ellie
             last: White
