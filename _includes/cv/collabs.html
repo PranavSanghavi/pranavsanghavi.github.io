@@ -3,7 +3,7 @@
     <h1 id="collabs" class="cv-section">Large Collaborations</h1>
     {% for entry in site.data.cv.collabs %}
     <p>
-        <b> {{ entry.name }} </b>: {{ entry.work }}<br>
+        <b> <a href="{{ entry.url }}"> {{ entry.name }}</a></b>: {{ entry.work }}<br>
     </p>
     {% endfor %}
 </div>
