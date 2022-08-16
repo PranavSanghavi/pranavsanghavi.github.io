@@ -7,9 +7,7 @@ abstract: This website is a brief compilation of details about the author. I dir
 
 <h2 id="intro">Introduction</h2>
 
-Hello! I am Pranav Sanghavi, and am a graduate research assistant at West Virginia University, WV, USA. I build radio
-telescopes. My doctoral work focuses on Fast Radio Burst detection and Very Large Baseline Interferometric(VLBI)
-localization.
+Hello! I am Pranav Sanghavi, I am a post doctoral associate at Yale University, Department of Physics. I am working with Dr. Laura Newburgh on the Candian Hydrogen Instensity Mapping Experiment (CHIME) project. I earned by Ph.D. from West Virginia University where I built an interferometric array (See Figure 2 and 3) to localize fast radio bursts (FRBs) to submilliarcsecond precision using very long baseline interferometry (VLBI).  
 
 <figure>
     <img src="/images/pranav.webp" onerror="if (this.src != '/images/pranav.webp') this.src = '/images/pranav.jpeg';" loading="lazy" alt="Pranav, cool guy." width="250" height="400" />
