@@ -1,8 +1,16 @@
+- place: Yale University
+  department: Department of Physics
+  location: New Haven, CT, USA
+  title: Postdocoral Associate
+  dates: 2022 -- Present
+  details:
+    - advisor: Dr. Laura Newburgh
+
 - place: West Virginia University
   department: Lane Department of Computer Science and Electrical Engineering
   location: Morgantown, WV, USA
   title: Graduate Research Assistant
-  dates: 2016 -- Present
+  dates: 2016 -- 2022
   details:
     - advisor: Dr. Kevin Bandura
 
