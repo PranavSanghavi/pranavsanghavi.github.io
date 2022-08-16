@@ -1,9 +1,10 @@
 - school: West Virginia University
   location: Morgantown, WV, USA
   degree: Ph.D. in Electrical Engineering
-  dates: 2016 -- Current
+  dates: 2016 -- 2022
   details:
     - advisor: Dr. Kevin Bandura
+    - thesis: “Pathfinding Fast Radio Bursts Localizations using Very Long Baseline Interferometry”
 
 - school: VIT University
   location: Vellore, Tamil Nadu, India
