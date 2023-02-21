@@ -1,0 +1,13 @@
+
+<div class="container">
+    <h1 id="collabs" class="cv-section">Service</h1>
+    {% for entry in site.data.cv.service %}
+    <p>
+        <b> <a href="{{ entry.url }}"> {{ entry.name }}</a></b>: {{ entry.work }}<br>
+    </p>
+    {% endfor %}
+</div>
+
+<br>
+<a class="no-print" href="#">Go to Top</a>
+<br>
