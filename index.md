@@ -1,7 +1,7 @@
 ---
 title: Pranav Sanghavi:<br />A Personal Website
 layout: home
-date: January 2021
+date: September 2025
 abstract: This website is a brief compilation of details about the author. I direct the reader to pertinent information. This is an eternal work in progress <i class="fa fa-cog fa-spin"></i>
 ---
 
