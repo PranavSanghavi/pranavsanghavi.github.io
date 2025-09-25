@@ -8,7 +8,7 @@ abstract: This website is a brief compilation of details about the author. I dir
 <h2 id="intro">Introduction</h2>
 
 
-Hello! I am Pranav Sanghavi, I am a postdoctoral fellow at the Center for Astrophysics &#124;Harvard & Smithsonion / Harvard College Observatory, Harvard university, working with [Dr. Liam Connor](https://liamconnorastro.com). Togther we are building a next generation FRB detector called the Coherent All Sky Monitor (CASM) to help unravel the mysteries of Fast Radio Bursts by detecting a large sample of local Universe FRBs. 
+Hello! I am Pranav Sanghavi, I am a postdoctoral fellow at the Center for Astrophysics &#124; Harvard & Smithsonion / Harvard College Observatory, Harvard university, working with [Dr. Liam Connor](https://liamconnorastro.com). Togther we are building a next generation FRB detector called the Coherent All Sky Monitor (CASM) to help unravel the mysteries of Fast Radio Bursts by detecting a large sample of local Universe FRBs. 
 	
 Before this postion I was a post doctoral associate at Yale University, Department of Physics. I worked with  [Dr. Laura Newburgh](https://physics.yale.edu/people/laura-newburgh) on the Candian Hydrogen Instensity Mapping Experiment (CHIME) project. 
 	
